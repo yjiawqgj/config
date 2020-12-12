@@ -1,2 +1,2 @@
 # config
-自定义配置
+OpenWrt自定义配置文件
