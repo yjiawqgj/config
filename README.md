@@ -1,3 +1,3 @@
-# config
+# 配置
 # OpenWrt编译配置文件
 
