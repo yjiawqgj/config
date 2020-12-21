@@ -30,6 +30,5 @@ git clone -b master --single-branch https://github.com/tty228/luci-app-servercha
 git clone -b master --single-branch https://github.com/destan19/OpenAppFilter ./package/diy/OpenAppFilter
 # svn co https://github.com/siropboy/luci-app-vssr-plus/trunk/luci-app-vssr-plus package/new/luci-app-vssr-plus
 git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall
-svn co https://github.com/DavBfr/luci-app-netmap/trunk/  package/diy/luci-app-netmap
 svn co https://github.com/jerrykuku/luci-app-vssr/trunk/  package/diy/luci-app-vssr
 ./scripts/feeds update -i
