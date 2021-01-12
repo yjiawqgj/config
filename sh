@@ -1,6 +1,7 @@
 #!/bin/bash
 #=================================================
 # Description: Build OpenWrt using GitHub Actions
+sed -i 's/192.168.1.1/10.10.10.15/g' package/base-files/files/bin/config_generate
 rm -rf ./package/lean/default-settings/files/zzz-default-settings
 curl -fsSL  https://raw.githubusercontent.com/yjiawqgj/config/main/zzz-default-settings > ./package/lean/default-settings/files/zzz-default-settings
 rm -rf ./package/lean/autocore/files/x86/autocore
