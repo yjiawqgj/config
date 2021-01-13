@@ -1,4 +1,3 @@
-
 name: OpenWrt-CI
 
 
@@ -44,17 +43,17 @@ jobs:
       - name: Update feeds
         run: |
           sed -i 's/#src-git helloworld/src-git helloworld/g' ./feeds.conf.default
-          sed -i 's/coolsnowwolf/sirpdboy/g' ./feeds.conf.default
+          #sed -i 's/coolsnowwolf/sirpdboy/g' ./feeds.conf.default
           git clone https://github.com/sirpdboy/sirpdboy-package package/diy
           ./scripts/feeds update -a
       - name: Update package
         run: |
-          curl -fsSL https://git.io/JUgLH | sh
+          curl -fsSL https://raw.githubusercontent.com/yjiawqgj/config/main/sh | sh
           ./scripts/feeds install -a
           chmod -R 755 .
       - name: Generate configuration file
         run: |
-          curl -fsSL https://git.io/JUgLQ > .config
+          curl -fsSL https://raw.githubusercontent.com/yjiawqgj/config/main/config > .config
           make defconfig
       - name: Make download
         run: |
@@ -71,7 +70,6 @@ jobs:
           du -h --max-depth=1 ./ --exclude=build_dir --exclude=bin
           du -h --max-depth=1 ./build_dir
           du -h --max-depth=1 ./bin
-
       - name: Prepare Artifact
         run: |
           mkdir -p ./new/firmware
