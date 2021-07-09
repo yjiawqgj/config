@@ -10,10 +10,8 @@ rm -rf ./package/lean/autocore/files/x86/index.htm
 curl -fsSL https://raw.githubusercontent.com/yjiawqgj/config/main/x86.htm > package/lean/autocore/files/x86/index.htm
 rm -rf ./package/lean/autocore/files/arm/index.htm
 curl -fsSL https://raw.githubusercontent.com/yjiawqgj/config/main/arm.htm > package/lean/autocore/files/arm/index.htm
-git clone https://github.com/yjiawqgj/luci-app-netmap package/luci-app-netmap
 git clone https://github.com/sirpdboy/sirpdboy-package package/diy
 git clone -b master https://github.com/vernesong/OpenClash.git package/OpenClash
 sed -i 's/解锁网易云灰色歌曲/解锁灰色歌曲/g' package/lean/luci-app-unblockmusic/po/zh-cn/unblockmusic.po
 git clone -b master --single-branch https://github.com/yjiawqgj/OpenAppFilter ./package/diy/OpenAppFilter
-svn co https://github.com/yjiawqgj/luci-app-netmap package/luci-app-netmap
 ./scripts/feeds update -i
