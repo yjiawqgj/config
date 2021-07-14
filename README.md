@@ -1,6 +1,6 @@
 ![mahua](mahua-logo.jpg)
 ##
-一# 编译各种配置文件
+##编译各种配置文件
 
 * customize 个性化功能
 * sh 添加或者删除插件
