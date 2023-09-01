@@ -1,0 +1,915 @@
+2023-09-01 12:03:25.6|Debug|AcceptableSizeSpecification|Beginning size check for: Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB]
+2023-09-01 12:03:25.7|Debug|AcceptableSizeSpecification|Max size is unlimited, skipping size check
+2023-09-01 12:03:25.7|Debug|AcceptableSizeSpecification|Item: Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB], meets size constraints
+2023-09-01 12:03:25.7|Debug|AlreadyImportedSpecification|Performing already imported check on report
+2023-09-01 12:03:25.7|Debug|CutoffSpecification|Comparing file quality with report. Existing file is WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|UpgradableSpecification|Existing item meets cut-off. skipping. Existing: WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|CutoffSpecification|Cutoff already met, rejecting.
+2023-09-01 12:03:25.7|Trace|ConfigService|Using default config value for 'maximumsize' defaultValue:'0'
+2023-09-01 12:03:25.7|Debug|MaximumSizeSpecification|Maximum size is not set.
+2023-09-01 12:03:25.7|Debug|MinimumAgeSpecification|Not checking minimum age requirement for non-usenet report
+2023-09-01 12:03:25.7|Debug|QualityAllowedByProfileSpecification|Checking if report meets quality requirements. WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|ReleaseRestrictionsSpecification|Checking if release meets restrictions: Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB]
+2023-09-01 12:03:25.7|Debug|ReleaseRestrictionsSpecification|[Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB]] No restrictions apply, allowing
+2023-09-01 12:03:25.7|Debug|RetentionSpecification|Not checking retention requirement for non-usenet report
+2023-09-01 12:03:25.7|Debug|SceneMappingSpecification|No applicable scene mapping, skipping.
+2023-09-01 12:03:25.7|Debug|UpgradeAllowedSpecification|Comparing file quality with report. Existing file is WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|UpgradeAllowedSpecification|Comparing file quality with report. Existing file is WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|UpgradeDiskSpecification|Comparing file quality with report. Existing file is WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|UpgradableSpecification|New item's custom formats [] (0) do not improve on [] (0), skipping
+2023-09-01 12:03:25.7|Debug|DelaySpecification|QualityProfile does not require a waiting period before download for Torrent.
+2023-09-01 12:03:25.7|Debug|HistorySpecification|Performing history status check on report
+2023-09-01 12:03:25.7|Debug|HistorySpecification|Checking current status of episode [979] in history
+2023-09-01 12:03:25.7|Debug|HistorySpecification|Checking current status of episode [980] in history
+2023-09-01 12:03:25.7|Debug|ProperSpecification|Propers are not preferred, skipping check
+2023-09-01 12:03:25.7|Debug|DownloadDecisionMaker|Release 'Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB]' from 'HDvideo' rejected for the following reasons: [Permanent] Existing file meets cutoff: Unknown, [Permanent] Existing file on disk is of equal or higher preference: WEBDL-2160p v1
+2023-09-01 12:03:25.7|Trace|DownloadDecisionMaker|Processing release 669/735
+2023-09-01 12:03:25.7|Debug|DownloadDecisionMaker|Processing release 'Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB]' from 'HDvideo'
+2023-09-01 12:03:25.7|Debug|Parser|Parsing string 'Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB]'
+2023-09-01 12:03:25.7|Trace|Parser|^(?<title>.+?)[-_. ]S(?<season>(?<!\d+)(?:\d{1,2}|\d{4})(?!\d+))(?:[-_. ]?[ex]?(?<episode>(?<!\d+)\d{1,2}(?!\d+)))+
+2023-09-01 12:03:25.7|Debug|Parser|Episode Parsed. Wrong Carriage Right Groom - S01E07-08 
+2023-09-01 12:03:25.7|Debug|Parser|Languages parsed: Chinese
+2023-09-01 12:03:25.7|Debug|QualityParser|Trying to parse quality for Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB]
+2023-09-01 12:03:25.7|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|Parser|Release Group parsed: HDVWEB
+2023-09-01 12:03:25.7|Debug|AggregateLanguages|Selected languages: Chinese
+2023-09-01 12:03:25.7|Debug|AcceptableSizeSpecification|Beginning size check for: Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB]
+2023-09-01 12:03:25.7|Debug|AcceptableSizeSpecification|Max size is unlimited, skipping size check
+2023-09-01 12:03:25.7|Debug|AcceptableSizeSpecification|Item: Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB], meets size constraints
+2023-09-01 12:03:25.7|Debug|AlreadyImportedSpecification|Performing already imported check on report
+2023-09-01 12:03:25.7|Debug|CutoffSpecification|Comparing file quality with report. Existing file is WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|UpgradableSpecification|Existing item meets cut-off. skipping. Existing: WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|CutoffSpecification|Cutoff already met, rejecting.
+2023-09-01 12:03:25.7|Trace|ConfigService|Using default config value for 'maximumsize' defaultValue:'0'
+2023-09-01 12:03:25.7|Debug|MaximumSizeSpecification|Maximum size is not set.
+2023-09-01 12:03:25.7|Debug|MinimumAgeSpecification|Not checking minimum age requirement for non-usenet report
+2023-09-01 12:03:25.7|Debug|QualityAllowedByProfileSpecification|Checking if report meets quality requirements. WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|ReleaseRestrictionsSpecification|Checking if release meets restrictions: Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB]
+2023-09-01 12:03:25.7|Debug|ReleaseRestrictionsSpecification|[Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB]] No restrictions apply, allowing
+2023-09-01 12:03:25.7|Debug|RetentionSpecification|Not checking retention requirement for non-usenet report
+2023-09-01 12:03:25.7|Debug|SceneMappingSpecification|No applicable scene mapping, skipping.
+2023-09-01 12:03:25.7|Debug|UpgradeAllowedSpecification|Comparing file quality with report. Existing file is WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|UpgradeAllowedSpecification|Comparing file quality with report. Existing file is WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|UpgradeDiskSpecification|Comparing file quality with report. Existing file is WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|UpgradableSpecification|New item's custom formats [] (0) do not improve on [] (0), skipping
+2023-09-01 12:03:25.7|Debug|DelaySpecification|QualityProfile does not require a waiting period before download for Torrent.
+2023-09-01 12:03:25.7|Debug|HistorySpecification|Performing history status check on report
+2023-09-01 12:03:25.7|Debug|HistorySpecification|Checking current status of episode [979] in history
+2023-09-01 12:03:25.7|Debug|HistorySpecification|Checking current status of episode [980] in history
+2023-09-01 12:03:25.7|Debug|ProperSpecification|Propers are not preferred, skipping check
+2023-09-01 12:03:25.7|Debug|DownloadDecisionMaker|Release 'Wrong Carriage Right Groom S1E7-E8 [Chinese][2160P][WEBDL][-HDVWEB]' from 'HDvideo' rejected for the following reasons: [Permanent] Existing file meets cutoff: Unknown, [Permanent] Existing file on disk is of equal or higher preference: WEBDL-2160p v1
+2023-09-01 12:03:25.7|Trace|DownloadDecisionMaker|Processing release 670/735
+2023-09-01 12:03:25.7|Debug|DownloadDecisionMaker|Processing release 'The Brightest of Us 2023 S01E01-E05 2160p WEB-DL HEVC 10bit AAC-HDVWEB' from 'HDvideo'
+2023-09-01 12:03:25.7|Debug|Parser|Parsing string 'The Brightest of Us 2023 S01E01-E05 2160p WEB-DL HEVC 10bit AAC-HDVWEB'
+2023-09-01 12:03:25.7|Trace|Parser|^(?<title>.+?)(?:(?:[-_\W](?<![()\[!]))+S?(?<season>(?<!\d+)(?:\d{1,2})(?!\d+))(?:[ex]|\W[ex]){1,2}(?<episode>\d{2,3}(?!\d+))(?:(?:\-|[ex]|\W[ex]|_){1,2}(?<episode>\d{2,3}(?!\d+)))*)(?:[-_. ]|$)(?!\\)
+2023-09-01 12:03:25.7|Debug|Parser|Episode Parsed. The Brightest of Us 2023 - S01E01-02-03-04-05 
+2023-09-01 12:03:25.7|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.7|Debug|QualityParser|Trying to parse quality for The Brightest of Us 2023 S01E01-E05 2160p WEB-DL HEVC 10bit AAC-HDVWEB
+2023-09-01 12:03:25.7|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|Parser|Release Group parsed: HDVWEB
+2023-09-01 12:03:25.7|Debug|ParsingService|No matching series The Brightest of Us 2023
+2023-09-01 12:03:25.7|Debug|DownloadDecisionMaker|Release 'The Brightest of Us 2023 S01E01-E05 2160p WEB-DL HEVC 10bit AAC-HDVWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.7|Trace|DownloadDecisionMaker|Processing release 671/735
+2023-09-01 12:03:25.7|Debug|DownloadDecisionMaker|Processing release 'A Long Way Home 2023 S01E06-E07 2160p WEB-DL HEVC DV AAC-HDVWEB' from 'HDvideo'
+2023-09-01 12:03:25.7|Debug|Parser|Parsing string 'A Long Way Home 2023 S01E06-E07 2160p WEB-DL HEVC DV AAC-HDVWEB'
+2023-09-01 12:03:25.7|Trace|Parser|^(?<title>.+?)(?:(?:[-_\W](?<![()\[!]))+S?(?<season>(?<!\d+)(?:\d{1,2})(?!\d+))(?:[ex]|\W[ex]){1,2}(?<episode>\d{2,3}(?!\d+))(?:(?:\-|[ex]|\W[ex]|_){1,2}(?<episode>\d{2,3}(?!\d+)))*)(?:[-_. ]|$)(?!\\)
+2023-09-01 12:03:25.7|Debug|Parser|Episode Parsed. A Long Way Home 2023 - S01E06-07 
+2023-09-01 12:03:25.7|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.7|Debug|QualityParser|Trying to parse quality for A Long Way Home 2023 S01E06-E07 2160p WEB-DL HEVC DV AAC-HDVWEB
+2023-09-01 12:03:25.7|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2023-09-01 12:03:25.7|Debug|Parser|Release Group parsed: HDVWEB
+2023-09-01 12:03:25.8|Debug|ParsingService|No matching series A Long Way Home 2023
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Release 'A Long Way Home 2023 S01E06-E07 2160p WEB-DL HEVC DV AAC-HDVWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.8|Trace|DownloadDecisionMaker|Processing release 672/735
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Processing release 'A Long Way Home 2023 S01 WEB-DL 2160p H265 DDP2.0-HDVWEB' from 'HDvideo'
+2023-09-01 12:03:25.8|Debug|Parser|Parsing string 'A Long Way Home 2023 S01 WEB-DL 2160p H265 DDP2.0-HDVWEB'
+2023-09-01 12:03:25.8|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?![-_. ]?\d+))(?:[-_. ]|$)+(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.8|Debug|Parser|Episode Parsed. A Long Way Home 2023 - Season 01 
+2023-09-01 12:03:25.8|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.8|Debug|QualityParser|Trying to parse quality for A Long Way Home 2023 S01 WEB-DL 2160p H265 DDP2.0-HDVWEB
+2023-09-01 12:03:25.8|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2023-09-01 12:03:25.8|Debug|Parser|Release Group parsed: HDVWEB
+2023-09-01 12:03:25.8|Debug|ParsingService|No matching series A Long Way Home 2023
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Release 'A Long Way Home 2023 S01 WEB-DL 2160p H265 DDP2.0-HDVWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.8|Trace|DownloadDecisionMaker|Processing release 673/735
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Processing release 'You Pan Tou 2023 S01 Complete WEB-DL 2160p H265 60fps AAC-HDVWEB' from 'HDvideo'
+2023-09-01 12:03:25.8|Debug|Parser|Parsing string 'You Pan Tou 2023 S01 Complete WEB-DL 2160p H265 60fps AAC-HDVWEB'
+2023-09-01 12:03:25.8|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?![-_. ]?\d+))(?:[-_. ]|$)+(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.8|Debug|Parser|Episode Parsed. You Pan Tou 2023 - Season 01 
+2023-09-01 12:03:25.8|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.8|Debug|QualityParser|Trying to parse quality for You Pan Tou 2023 S01 Complete WEB-DL 2160p H265 60fps AAC-HDVWEB
+2023-09-01 12:03:25.8|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2023-09-01 12:03:25.8|Debug|Parser|Release Group parsed: HDVWEB
+2023-09-01 12:03:25.8|Debug|ParsingService|No matching series You Pan Tou 2023
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Release 'You Pan Tou 2023 S01 Complete WEB-DL 2160p H265 60fps AAC-HDVWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.8|Trace|DownloadDecisionMaker|Processing release 674/735
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Processing release 'You Pan Tou 2023 S01 Complete WEB-DL 2160p H265 AAC-HDVWEB' from 'HDvideo'
+2023-09-01 12:03:25.8|Debug|Parser|Parsing string 'You Pan Tou 2023 S01 Complete WEB-DL 2160p H265 AAC-HDVWEB'
+2023-09-01 12:03:25.8|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?![-_. ]?\d+))(?:[-_. ]|$)+(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.8|Debug|Parser|Episode Parsed. You Pan Tou 2023 - Season 01 
+2023-09-01 12:03:25.8|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.8|Debug|QualityParser|Trying to parse quality for You Pan Tou 2023 S01 Complete WEB-DL 2160p H265 AAC-HDVWEB
+2023-09-01 12:03:25.8|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2023-09-01 12:03:25.8|Debug|Parser|Release Group parsed: HDVWEB
+2023-09-01 12:03:25.8|Debug|ParsingService|No matching series You Pan Tou 2023
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Release 'You Pan Tou 2023 S01 Complete WEB-DL 2160p H265 AAC-HDVWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.8|Trace|DownloadDecisionMaker|Processing release 675/735
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Processing release 'Queen of the South S03 1080p NF WEB-DL DDP5.1 H.264-HHWEB' from 'HDvideo'
+2023-09-01 12:03:25.8|Debug|Parser|Parsing string 'Queen of the South S03 1080p NF WEB-DL DDP5.1 H.264-HHWEB'
+2023-09-01 12:03:25.8|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?![-_. ]?\d+))(?:[-_. ]|$)+(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.8|Debug|Parser|Episode Parsed. Queen of the South - Season 03 
+2023-09-01 12:03:25.8|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.8|Debug|QualityParser|Trying to parse quality for Queen of the South S03 1080p NF WEB-DL DDP5.1 H.264-HHWEB
+2023-09-01 12:03:25.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2023-09-01 12:03:25.8|Debug|Parser|Release Group parsed: HHWEB
+2023-09-01 12:03:25.8|Debug|ParsingService|No matching series Queen of the South
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Release 'Queen of the South S03 1080p NF WEB-DL DDP5.1 H.264-HHWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.8|Trace|DownloadDecisionMaker|Processing release 676/735
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Processing release 'Love Amongst War 2012 Complete WEB-DL 1080p AVC AAC Mandarin-OPS' from 'HDvideo'
+2023-09-01 12:03:25.8|Debug|Parser|Parsing string 'Love Amongst War 2012 Complete WEB-DL 1080p AVC AAC Mandarin-OPS'
+2023-09-01 12:03:25.8|Trace|Parser|^(?<title>.+?)?(?:(?:[-_. ](?<![()\[!]))*(?<season>(?<!\d+|\(|\[|e|x)\d{2})(?<episode>(?<!e|x)(?:[1-9][0-9]|[0][1-9])(?!p|i|\d+|\)|\]|\W\d+|\W(?:e|ep|x)\d+)))+([-_. ]+|$)(?!\\)
+2023-09-01 12:03:25.8|Debug|Parser|Episode Parsed. Love Amongst War - S20E12 
+2023-09-01 12:03:25.8|Debug|Parser|Languages parsed: Chinese
+2023-09-01 12:03:25.8|Debug|QualityParser|Trying to parse quality for Love Amongst War 2012 Complete WEB-DL 1080p AVC AAC Mandarin-OPS
+2023-09-01 12:03:25.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2023-09-01 12:03:25.8|Debug|Parser|Release Group parsed: OPS
+2023-09-01 12:03:25.8|Debug|ParsingService|No matching series Love Amongst War
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Release 'Love Amongst War 2012 Complete WEB-DL 1080p AVC AAC Mandarin-OPS' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.8|Trace|DownloadDecisionMaker|Processing release 677/735
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Processing release 'Fa Zhi Zhong Guo 2021 S01 2021 Complete 1080p WEB-DL H.264 AAC-DJWEB' from 'HDvideo'
+2023-09-01 12:03:25.8|Debug|Parser|Parsing string 'Fa Zhi Zhong Guo 2021 S01 2021 Complete 1080p WEB-DL H.264 AAC-DJWEB'
+2023-09-01 12:03:25.8|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?=[-_. ]\d{4}[-_. ]+))(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.8|Debug|Parser|Episode Parsed. Fa Zhi Zhong Guo 2021 - Season 01 
+2023-09-01 12:03:25.8|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.8|Debug|QualityParser|Trying to parse quality for Fa Zhi Zhong Guo 2021 S01 2021 Complete 1080p WEB-DL H.264 AAC-DJWEB
+2023-09-01 12:03:25.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2023-09-01 12:03:25.8|Debug|Parser|Release Group parsed: DJWEB
+2023-09-01 12:03:25.8|Debug|ParsingService|No matching series Fa Zhi Zhong Guo 2021
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Release 'Fa Zhi Zhong Guo 2021 S01 2021 Complete 1080p WEB-DL H.264 AAC-DJWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.8|Trace|DownloadDecisionMaker|Processing release 678/735
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Processing release 'The Eve S01 2023 1080p WEB-DL H.264 AAC-HHWEB' from 'HDvideo'
+2023-09-01 12:03:25.8|Debug|Parser|Parsing string 'The Eve S01 2023 1080p WEB-DL H.264 AAC-HHWEB'
+2023-09-01 12:03:25.8|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?=[-_. ]\d{4}[-_. ]+))(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.8|Debug|Parser|Episode Parsed. The Eve - Season 01 
+2023-09-01 12:03:25.8|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.8|Debug|QualityParser|Trying to parse quality for The Eve S01 2023 1080p WEB-DL H.264 AAC-HHWEB
+2023-09-01 12:03:25.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2023-09-01 12:03:25.8|Debug|Parser|Release Group parsed: HHWEB
+2023-09-01 12:03:25.8|Debug|ParsingService|No matching series The Eve
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Release 'The Eve S01 2023 1080p WEB-DL H.264 AAC-HHWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.8|Trace|DownloadDecisionMaker|Processing release 679/735
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Processing release 'Century Masters Fei Yi Pian S01 2021 Complete 1080p WEB-DL H.264 AAC-DJWEB' from 'HDvideo'
+2023-09-01 12:03:25.8|Debug|Parser|Parsing string 'Century Masters Fei Yi Pian S01 2021 Complete 1080p WEB-DL H.264 AAC-DJWEB'
+2023-09-01 12:03:25.8|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?=[-_. ]\d{4}[-_. ]+))(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.8|Debug|Parser|Episode Parsed. Century Masters Fei Yi Pian - Season 01 
+2023-09-01 12:03:25.8|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.8|Debug|QualityParser|Trying to parse quality for Century Masters Fei Yi Pian S01 2021 Complete 1080p WEB-DL H.264 AAC-DJWEB
+2023-09-01 12:03:25.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2023-09-01 12:03:25.8|Debug|Parser|Release Group parsed: DJWEB
+2023-09-01 12:03:25.8|Debug|ParsingService|No matching series Century Masters Fei Yi Pian
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Release 'Century Masters Fei Yi Pian S01 2021 Complete 1080p WEB-DL H.264 AAC-DJWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.8|Trace|DownloadDecisionMaker|Processing release 680/735
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Processing release 'Black Mirror S06 2023 1080p WEB-DL HEVC 10bit HDR DDP5.1-SakuraWEB' from 'HDvideo'
+2023-09-01 12:03:25.8|Debug|Parser|Parsing string 'Black Mirror S06 2023 1080p WEB-DL HEVC 10bit HDR DDP5.1-SakuraWEB'
+2023-09-01 12:03:25.8|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?=[-_. ]\d{4}[-_. ]+))(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.8|Debug|Parser|Episode Parsed. Black Mirror - Season 06 
+2023-09-01 12:03:25.8|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.8|Debug|QualityParser|Trying to parse quality for Black Mirror S06 2023 1080p WEB-DL HEVC 10bit HDR DDP5.1-SakuraWEB
+2023-09-01 12:03:25.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2023-09-01 12:03:25.8|Debug|Parser|Release Group parsed: SakuraWEB
+2023-09-01 12:03:25.8|Debug|ParsingService|No matching series Black Mirror
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Release 'Black Mirror S06 2023 1080p WEB-DL HEVC 10bit HDR DDP5.1-SakuraWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.8|Trace|DownloadDecisionMaker|Processing release 681/735
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Processing release 'Black Mirror S05 2019 1080p WEB-DL HEVC 10bit HDR DDP5.1-SakuraWEB' from 'HDvideo'
+2023-09-01 12:03:25.8|Debug|Parser|Parsing string 'Black Mirror S05 2019 1080p WEB-DL HEVC 10bit HDR DDP5.1-SakuraWEB'
+2023-09-01 12:03:25.8|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?=[-_. ]\d{4}[-_. ]+))(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.8|Debug|Parser|Episode Parsed. Black Mirror - Season 05 
+2023-09-01 12:03:25.8|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.8|Debug|QualityParser|Trying to parse quality for Black Mirror S05 2019 1080p WEB-DL HEVC 10bit HDR DDP5.1-SakuraWEB
+2023-09-01 12:03:25.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2023-09-01 12:03:25.8|Debug|Parser|Release Group parsed: SakuraWEB
+2023-09-01 12:03:25.8|Debug|ParsingService|No matching series Black Mirror
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Release 'Black Mirror S05 2019 1080p WEB-DL HEVC 10bit HDR DDP5.1-SakuraWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.8|Trace|DownloadDecisionMaker|Processing release 682/735
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Processing release 'Century Masters Mei Shu Pian S03 2016 Complete 1080p WEB-DL H.264 AAC-DJWEB' from 'HDvideo'
+2023-09-01 12:03:25.8|Debug|Parser|Parsing string 'Century Masters Mei Shu Pian S03 2016 Complete 1080p WEB-DL H.264 AAC-DJWEB'
+2023-09-01 12:03:25.8|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?=[-_. ]\d{4}[-_. ]+))(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.8|Debug|Parser|Episode Parsed. Century Masters Mei Shu Pian - Season 03 
+2023-09-01 12:03:25.8|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.8|Debug|QualityParser|Trying to parse quality for Century Masters Mei Shu Pian S03 2016 Complete 1080p WEB-DL H.264 AAC-DJWEB
+2023-09-01 12:03:25.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2023-09-01 12:03:25.8|Debug|Parser|Release Group parsed: DJWEB
+2023-09-01 12:03:25.8|Debug|ParsingService|No matching series Century Masters Mei Shu Pian
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Release 'Century Masters Mei Shu Pian S03 2016 Complete 1080p WEB-DL H.264 AAC-DJWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.8|Trace|DownloadDecisionMaker|Processing release 683/735
+2023-09-01 12:03:25.8|Debug|DownloadDecisionMaker|Processing release 'Century Masters Mei Shu Pian S02 2013 Complete 1080p WEB-DL H.264 AAC-DJWEB' from 'HDvideo'
+2023-09-01 12:03:25.8|Debug|Parser|Parsing string 'Century Masters Mei Shu Pian S02 2013 Complete 1080p WEB-DL H.264 AAC-DJWEB'
+2023-09-01 12:03:25.8|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?=[-_. ]\d{4}[-_. ]+))(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.8|Debug|Parser|Episode Parsed. Century Masters Mei Shu Pian - Season 02 
+2023-09-01 12:03:25.8|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.8|Debug|QualityParser|Trying to parse quality for Century Masters Mei Shu Pian S02 2013 Complete 1080p WEB-DL H.264 AAC-DJWEB
+2023-09-01 12:03:25.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2023-09-01 12:03:25.9|Debug|Parser|Release Group parsed: DJWEB
+2023-09-01 12:03:25.9|Debug|ParsingService|No matching series Century Masters Mei Shu Pian
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Release 'Century Masters Mei Shu Pian S02 2013 Complete 1080p WEB-DL H.264 AAC-DJWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.9|Trace|DownloadDecisionMaker|Processing release 684/735
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Processing release 'Black Mirror S04 2017 1080p WEB-DL HEVC 10bit HDR DDP5.1-SakuraWEB' from 'HDvideo'
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string 'Black Mirror S04 2017 1080p WEB-DL HEVC 10bit HDR DDP5.1-SakuraWEB'
+2023-09-01 12:03:25.9|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?=[-_. ]\d{4}[-_. ]+))(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.9|Debug|Parser|Episode Parsed. Black Mirror - Season 04 
+2023-09-01 12:03:25.9|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.9|Debug|QualityParser|Trying to parse quality for Black Mirror S04 2017 1080p WEB-DL HEVC 10bit HDR DDP5.1-SakuraWEB
+2023-09-01 12:03:25.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2023-09-01 12:03:25.9|Debug|Parser|Release Group parsed: SakuraWEB
+2023-09-01 12:03:25.9|Debug|ParsingService|No matching series Black Mirror
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Release 'Black Mirror S04 2017 1080p WEB-DL HEVC 10bit HDR DDP5.1-SakuraWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.9|Trace|DownloadDecisionMaker|Processing release 685/735
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Processing release 'Century Masters Zhu Pian S01 2021 Complete 1080p WEB-DL H.264 AAC-DJWEB' from 'HDvideo'
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string 'Century Masters Zhu Pian S01 2021 Complete 1080p WEB-DL H.264 AAC-DJWEB'
+2023-09-01 12:03:25.9|Trace|Parser|^(?<title>.+?)[-_. ]+?(?:S|Season|Saison|Series|Stagione)[-_. ]?(?<season>\d{1,2}(?=[-_. ]\d{4}[-_. ]+))(?<extras>EXTRAS|SUBPACK)?(?!\\)
+2023-09-01 12:03:25.9|Debug|Parser|Episode Parsed. Century Masters Zhu Pian - Season 01 
+2023-09-01 12:03:25.9|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:25.9|Debug|QualityParser|Trying to parse quality for Century Masters Zhu Pian S01 2021 Complete 1080p WEB-DL H.264 AAC-DJWEB
+2023-09-01 12:03:25.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2023-09-01 12:03:25.9|Debug|Parser|Release Group parsed: DJWEB
+2023-09-01 12:03:25.9|Debug|ParsingService|No matching series Century Masters Zhu Pian
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Release 'Century Masters Zhu Pian S01 2021 Complete 1080p WEB-DL H.264 AAC-DJWEB' from 'HDvideo' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:25.9|Trace|DownloadDecisionMaker|Processing release 686/735
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Processing release '[成群結伴！西頓學園][Murenase! Seton Gakuen][群れなせ! シートン学園][BDMV][Vol.1-Vol.3 Fin]' from 'U2'
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[成群結伴！西頓學園][Murenase! Seton Gakuen][群れなせ! シートン学園][BDMV][Vol.1-Vol.3 Fin]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [成群結伴！西頓學園][Murenase! Seton Gakuen][群れなせ! シートン学園][BDMV][Vol.1-Vol.3 Fin]
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[成群結伴！西頓學園][Murenase! Seton Gakuen][群れなせ! シートン学園][BDMV][Vol.1-Vol.3 Fin]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [成群結伴！西頓學園][Murenase! Seton Gakuen][群れなせ! シートン学園][BDMV][Vol.1-Vol.3 Fin]
+2023-09-01 12:03:25.9|Debug|ParsingService|No matching series [成群結伴！西頓學園][Murenase! Seton Gakuen][群れなせ! シートン学園][BDMV][Vol.1-Vol.3 Fin]
+2023-09-01 12:03:25.9|Trace|DownloadDecisionMaker|Processing release 687/735
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Processing release '[座敷童子榻榻米酱][Zashiki-warashi no Tatami-chan][ざしきわらしのタタミちゃん][BDMV][1080p][Vol.1 Fin][JP]' from 'U2'
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[座敷童子榻榻米酱][Zashiki-warashi no Tatami-chan][ざしきわらしのタタミちゃん][BDMV][1080p][Vol.1 Fin][JP]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [座敷童子榻榻米酱][Zashiki-warashi no Tatami-chan][ざしきわらしのタタミちゃん][BDMV][1080p][Vol.1 Fin][JP]
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[座敷童子榻榻米酱][Zashiki-warashi no Tatami-chan][ざしきわらしのタタミちゃん][BDMV][1080p][Vol.1 Fin][JP]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [座敷童子榻榻米酱][Zashiki-warashi no Tatami-chan][ざしきわらしのタタミちゃん][BDMV][1080p][Vol.1 Fin][JP]
+2023-09-01 12:03:25.9|Debug|ParsingService|No matching series [座敷童子榻榻米酱][Zashiki-warashi no Tatami-chan][ざしきわらしのタタミちゃん][BDMV][1080p][Vol.1 Fin][JP]
+2023-09-01 12:03:25.9|Trace|DownloadDecisionMaker|Processing release 688/735
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Processing release '[涩谷新视界][revisionsリヴィジョンズ][BDMV][1080P][AVC][BD-BOX BDx3 CDx1 Fin][JP]' from 'U2'
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[涩谷新视界][revisionsリヴィジョンズ][BDMV][1080P][AVC][BD-BOX BDx3 CDx1 Fin][JP]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [涩谷新视界][revisionsリヴィジョンズ][BDMV][1080P][AVC][BD-BOX BDx3 CDx1 Fin][JP]
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[涩谷新视界][revisionsリヴィジョンズ][BDMV][1080P][AVC][BD-BOX BDx3 CDx1 Fin][JP]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [涩谷新视界][revisionsリヴィジョンズ][BDMV][1080P][AVC][BD-BOX BDx3 CDx1 Fin][JP]
+2023-09-01 12:03:25.9|Debug|ParsingService|No matching series [涩谷新视界][revisionsリヴィジョンズ][BDMV][1080P][AVC][BD-BOX BDx3 CDx1 Fin][JP]
+2023-09-01 12:03:25.9|Trace|DownloadDecisionMaker|Processing release 689/735
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Processing release '[蜡笔小新 剧场版 超級美味! B級美食大逃亡!!][Eiga Crayon Shin-chan: Bakauma! B-Kyu Gourmet Survival!!][映画 クレヨンしんちゃん バカうまっ! B級グルメサバイバル!!][BDMV][Movie][ANK-RAWS][自抓]' from 'U2'
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[蜡笔小新 剧场版 超級美味! B級美食大逃亡!!][Eiga Crayon Shin-chan: Bakauma! B-Kyu Gourmet Survival!!][映画 クレヨンしんちゃん バカうまっ! B級グルメサバイバル!!][BDMV][Movie][ANK-RAWS][自抓]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [蜡笔小新 剧场版 超級美味! B級美食大逃亡!!][Eiga Crayon Shin-chan: Bakauma! B-Kyu Gourmet Survival!!][映画 クレヨンしんちゃん バカうまっ! B級グルメサバイバル!!][BDMV][Movie][ANK-RAWS][自抓]
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[蜡笔小新 剧场版 超級美味! B級美食大逃亡!!][Eiga Crayon Shin-chan: Bakauma! B-Kyu Gourmet Survival!!][映画 クレヨンしんちゃん バカうまっ! B級グルメサバイバル!!][BDMV][Movie][ANK-RAWS][自抓]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [蜡笔小新 剧场版 超級美味! B級美食大逃亡!!][Eiga Crayon Shin-chan: Bakauma! B-Kyu Gourmet Survival!!][映画 クレヨンしんちゃん バカうまっ! B級グルメサバイバル!!][BDMV][Movie][ANK-RAWS][自抓]
+2023-09-01 12:03:25.9|Debug|ParsingService|No matching series [蜡笔小新 剧场版 超級美味! B級美食大逃亡!!][Eiga Crayon Shin-chan: Bakauma! B-Kyu Gourmet Survival!!][映画 クレヨンしんちゃん バカうまっ! B級グルメサバイバル!!][BDMV][Movie][ANK-RAWS][自抓]
+2023-09-01 12:03:25.9|Trace|DownloadDecisionMaker|Processing release 690/735
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Processing release '[排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.6 Fin][JP]' from 'U2'
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.6 Fin][JP]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.6 Fin][JP]
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.6 Fin][JP]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.6 Fin][JP]
+2023-09-01 12:03:25.9|Debug|ParsingService|No matching series [排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.6 Fin][JP]
+2023-09-01 12:03:25.9|Trace|DownloadDecisionMaker|Processing release 691/735
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Processing release '[排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.5][JP]' from 'U2'
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.5][JP]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.5][JP]
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.5][JP]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.5][JP]
+2023-09-01 12:03:25.9|Debug|ParsingService|No matching series [排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.5][JP]
+2023-09-01 12:03:25.9|Trace|DownloadDecisionMaker|Processing release 692/735
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Processing release '[排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.4][JP]' from 'U2'
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.4][JP]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.4][JP]
+2023-09-01 12:03:25.9|Debug|Parser|Parsing string '[排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.4][JP]'
+2023-09-01 12:03:25.9|Debug|Parser|Unable to parse [排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.4][JP]
+2023-09-01 12:03:25.9|Debug|ParsingService|No matching series [排球少年 TO THE TOP][Haikyuu!! To the Top][ハイキュー!! TO THE TOP][BDMV][1080p][Vol.4][JP]
+2023-09-01 12:03:25.9|Trace|DownloadDecisionMaker|Processing release 693/735
+2023-09-01 12:03:25.9|Debug|DownloadDecisionMaker|Processing release '[付丧神出租中][Tsukumogami Kashimasu][つくもがみ貸します][BDMV][1080p][Vol.1-Vol.2 Fin][AVC][LoliHouse]' from 'U2'
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[付丧神出租中][Tsukumogami Kashimasu][つくもがみ貸します][BDMV][1080p][Vol.1-Vol.2 Fin][AVC][LoliHouse]'
+2023-09-01 12:03:26.0|Debug|Parser|Unable to parse [付丧神出租中][Tsukumogami Kashimasu][つくもがみ貸します][BDMV][1080p][Vol.1-Vol.2 Fin][AVC][LoliHouse]
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[付丧神出租中][Tsukumogami Kashimasu][つくもがみ貸します][BDMV][1080p][Vol.1-Vol.2 Fin][AVC][LoliHouse]'
+2023-09-01 12:03:26.0|Debug|Parser|Unable to parse [付丧神出租中][Tsukumogami Kashimasu][つくもがみ貸します][BDMV][1080p][Vol.1-Vol.2 Fin][AVC][LoliHouse]
+2023-09-01 12:03:26.0|Debug|ParsingService|No matching series [付丧神出租中][Tsukumogami Kashimasu][つくもがみ貸します][BDMV][1080p][Vol.1-Vol.2 Fin][AVC][LoliHouse]
+2023-09-01 12:03:26.0|Trace|DownloadDecisionMaker|Processing release 694/735
+2023-09-01 12:03:26.0|Debug|DownloadDecisionMaker|Processing release '[哥普拉/眼镜蛇/宇宙铁汉][Space Adventure Cobra/COBRA][スペースコブラ][BDRip][1080p][TV+OVA+Movie+SP Fin][HEVC FLAC][AI-Raws]' from 'U2'
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[哥普拉/眼镜蛇/宇宙铁汉][Space Adventure Cobra/COBRA][スペースコブラ][BDRip][1080p][TV+OVA+Movie+SP Fin][HEVC FLAC][AI-Raws]'
+2023-09-01 12:03:26.0|Debug|Parser|Unable to parse [哥普拉/眼镜蛇/宇宙铁汉][Space Adventure Cobra/COBRA][スペースコブラ][BDRip][1080p][TV+OVA+Movie+SP Fin][HEVC FLAC][AI-Raws]
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[哥普拉/眼镜蛇/宇宙铁汉][Space Adventure Cobra/COBRA][スペースコブラ][BDRip][1080p][TV+OVA+Movie+SP Fin][HEVC FLAC][AI-Raws]'
+2023-09-01 12:03:26.0|Debug|Parser|Unable to parse [哥普拉/眼镜蛇/宇宙铁汉][Space Adventure Cobra/COBRA][スペースコブラ][BDRip][1080p][TV+OVA+Movie+SP Fin][HEVC FLAC][AI-Raws]
+2023-09-01 12:03:26.0|Debug|ParsingService|No matching series [哥普拉/眼镜蛇/宇宙铁汉][Space Adventure Cobra/COBRA][スペースコブラ][BDRip][1080p][TV+OVA+Movie+SP Fin][HEVC FLAC][AI-Raws]
+2023-09-01 12:03:26.0|Trace|DownloadDecisionMaker|Processing release 695/735
+2023-09-01 12:03:26.0|Debug|DownloadDecisionMaker|Processing release '[變態王子與不笑貓][The "Hentai" Prince and the Stony Cat][変態王子と笑わない猫][BDMV][1080p][DISC×2 Fin][USA]' from 'U2'
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[變態王子與不笑貓][The "Hentai" Prince and the Stony Cat][変態王子と笑わない猫][BDMV][1080p][DISC×2 Fin][USA]'
+2023-09-01 12:03:26.0|Debug|Parser|Unable to parse [變態王子與不笑貓][The "Hentai" Prince and the Stony Cat][変態王子と笑わない猫][BDMV][1080p][DISC×2 Fin][USA]
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[變態王子與不笑貓][The "Hentai" Prince and the Stony Cat][変態王子と笑わない猫][BDMV][1080p][DISC×2 Fin][USA]'
+2023-09-01 12:03:26.0|Debug|Parser|Unable to parse [變態王子與不笑貓][The "Hentai" Prince and the Stony Cat][変態王子と笑わない猫][BDMV][1080p][DISC×2 Fin][USA]
+2023-09-01 12:03:26.0|Debug|ParsingService|No matching series [變態王子與不笑貓][The "Hentai" Prince and the Stony Cat][変態王子と笑わない猫][BDMV][1080p][DISC×2 Fin][USA]
+2023-09-01 12:03:26.0|Trace|DownloadDecisionMaker|Processing release 696/735
+2023-09-01 12:03:26.0|Debug|DownloadDecisionMaker|Processing release '[鲁邦三世：鲁邦VS复制人][Lupin the 3rd: The Mystery of Mamo][ルパン三世 ルパンvs複製人間][BDMV][2160p][MOVIE][HEVC][FRA]' from 'U2'
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[鲁邦三世：鲁邦VS复制人][Lupin the 3rd: The Mystery of Mamo][ルパン三世 ルパンvs複製人間][BDMV][2160p][MOVIE][HEVC][FRA]'
+2023-09-01 12:03:26.0|Debug|Parser|Unable to parse [鲁邦三世：鲁邦VS复制人][Lupin the 3rd: The Mystery of Mamo][ルパン三世 ルパンvs複製人間][BDMV][2160p][MOVIE][HEVC][FRA]
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[鲁邦三世：鲁邦VS复制人][Lupin the 3rd: The Mystery of Mamo][ルパン三世 ルパンvs複製人間][BDMV][2160p][MOVIE][HEVC][FRA]'
+2023-09-01 12:03:26.0|Debug|Parser|Unable to parse [鲁邦三世：鲁邦VS复制人][Lupin the 3rd: The Mystery of Mamo][ルパン三世 ルパンvs複製人間][BDMV][2160p][MOVIE][HEVC][FRA]
+2023-09-01 12:03:26.0|Debug|ParsingService|No matching series [鲁邦三世：鲁邦VS复制人][Lupin the 3rd: The Mystery of Mamo][ルパン三世 ルパンvs複製人間][BDMV][2160p][MOVIE][HEVC][FRA]
+2023-09-01 12:03:26.0|Trace|DownloadDecisionMaker|Processing release 697/735
+2023-09-01 12:03:26.0|Debug|DownloadDecisionMaker|Processing release '[地狱老师/靈異教師神眉][Jigoku Sensei Nube][地獄先生ぬ～べ～][BDRip][1080p][TV 01-49+OVAx3+Moviex3+SP Fin][HEVC FLAC][AI-Raws]' from 'U2'
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[地狱老师/靈異教師神眉][Jigoku Sensei Nube][地獄先生ぬ～べ～][BDRip][1080p][TV 01-49+OVAx3+Moviex3+SP Fin][HEVC FLAC][AI-Raws]'
+2023-09-01 12:03:26.0|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.0|Debug|Parser|Episode Parsed. [][TV - 001-002-003-004-005-006-007-008-009-010-011-012-013-014-015-016-017-018-019-020-021-022-023-024-025-026-027-028-029-030-031-032-033-034-035-036-037-038-039-040-041-042-043-044-045-046-047-048-049 
+2023-09-01 12:03:26.0|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.0|Debug|QualityParser|Trying to parse quality for [地狱老师/靈異教師神眉][Jigoku Sensei Nube][地獄先生ぬ～べ～][BDRip][1080p][TV 01-49+OVAx3+Moviex3+SP Fin][HEVC FLAC][AI-Raws]
+2023-09-01 12:03:26.0|Debug|Parser|Quality parsed: Bluray-1080p v1
+2023-09-01 12:03:26.0|Debug|Parser|Release Group parsed: 地狱老师/靈異教師神眉
+2023-09-01 12:03:26.0|Debug|ParsingService|No matching series [][TV
+2023-09-01 12:03:26.0|Debug|DownloadDecisionMaker|Release '[地狱老师/靈異教師神眉][Jigoku Sensei Nube][地獄先生ぬ～べ～][BDRip][1080p][TV 01-49+OVAx3+Moviex3+SP Fin][HEVC FLAC][AI-Raws]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.0|Trace|DownloadDecisionMaker|Processing release 698/735
+2023-09-01 12:03:26.0|Debug|DownloadDecisionMaker|Processing release '[跃动青春][Skip to Loafer][スキップとローファー][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]' from 'U2'
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[跃动青春][Skip to Loafer][スキップとローファー][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]'
+2023-09-01 12:03:26.0|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.0|Debug|Parser|Episode Parsed. [][TV - 001-002-003-004-005-006-007-008-009-010-011-012 
+2023-09-01 12:03:26.0|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.0|Debug|QualityParser|Trying to parse quality for [跃动青春][Skip to Loafer][スキップとローファー][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]
+2023-09-01 12:03:26.0|Debug|Parser|Quality parsed: Bluray-1080p v1
+2023-09-01 12:03:26.0|Debug|Parser|Release Group parsed: 跃动青春
+2023-09-01 12:03:26.0|Debug|ParsingService|No matching series [][TV
+2023-09-01 12:03:26.0|Debug|DownloadDecisionMaker|Release '[跃动青春][Skip to Loafer][スキップとローファー][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.0|Trace|DownloadDecisionMaker|Processing release 699/735
+2023-09-01 12:03:26.0|Debug|DownloadDecisionMaker|Processing release '[我内心的糟糕念头][Boku no Kokoro no Yabai Yatsu][僕の心のヤバイやつ][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]' from 'U2'
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[我内心的糟糕念头][Boku no Kokoro no Yabai Yatsu][僕の心のヤバイやつ][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]'
+2023-09-01 12:03:26.0|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.0|Debug|Parser|Episode Parsed. [][TV - 001-002-003-004-005-006-007-008-009-010-011-012 
+2023-09-01 12:03:26.0|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.0|Debug|QualityParser|Trying to parse quality for [我内心的糟糕念头][Boku no Kokoro no Yabai Yatsu][僕の心のヤバイやつ][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]
+2023-09-01 12:03:26.0|Debug|Parser|Quality parsed: Bluray-1080p v1
+2023-09-01 12:03:26.0|Debug|Parser|Release Group parsed: 我内心的糟糕念头
+2023-09-01 12:03:26.0|Debug|ParsingService|No matching series [][TV
+2023-09-01 12:03:26.0|Debug|DownloadDecisionMaker|Release '[我内心的糟糕念头][Boku no Kokoro no Yabai Yatsu][僕の心のヤバイやつ][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.0|Trace|DownloadDecisionMaker|Processing release 700/735
+2023-09-01 12:03:26.0|Debug|DownloadDecisionMaker|Processing release '[世界大明星][World Dai Star][ワールドダイスター][BDMV][1080p][Vol.2][JP][喵萌Production]' from 'U2'
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[世界大明星][World Dai Star][ワールドダイスター][BDMV][1080p][Vol.2][JP][喵萌Production]'
+2023-09-01 12:03:26.0|Debug|Parser|Unable to parse [世界大明星][World Dai Star][ワールドダイスター][BDMV][1080p][Vol.2][JP][喵萌Production]
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[世界大明星][World Dai Star][ワールドダイスター][BDMV][1080p][Vol.2][JP][喵萌Production]'
+2023-09-01 12:03:26.0|Debug|Parser|Unable to parse [世界大明星][World Dai Star][ワールドダイスター][BDMV][1080p][Vol.2][JP][喵萌Production]
+2023-09-01 12:03:26.0|Debug|ParsingService|No matching series [世界大明星][World Dai Star][ワールドダイスター][BDMV][1080p][Vol.2][JP][喵萌Production]
+2023-09-01 12:03:26.0|Trace|DownloadDecisionMaker|Processing release 701/735
+2023-09-01 12:03:26.0|Debug|DownloadDecisionMaker|Processing release '[遊戲王SEVENS][Yu-Gi-Oh! SEVENS][遊☆戯☆王SEVENS][BDMV][1080p][Vol.6][七村@お好きに]' from 'U2'
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[遊戲王SEVENS][Yu-Gi-Oh! SEVENS][遊☆戯☆王SEVENS][BDMV][1080p][Vol.6][七村@お好きに]'
+2023-09-01 12:03:26.0|Debug|Parser|Unable to parse [遊戲王SEVENS][Yu-Gi-Oh! SEVENS][遊☆戯☆王SEVENS][BDMV][1080p][Vol.6][七村@お好きに]
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[遊戲王SEVENS][Yu-Gi-Oh! SEVENS][遊☆戯☆王SEVENS][BDMV][1080p][Vol.6][七村@お好きに]'
+2023-09-01 12:03:26.0|Debug|Parser|Unable to parse [遊戲王SEVENS][Yu-Gi-Oh! SEVENS][遊☆戯☆王SEVENS][BDMV][1080p][Vol.6][七村@お好きに]
+2023-09-01 12:03:26.0|Debug|ParsingService|No matching series [遊戲王SEVENS][Yu-Gi-Oh! SEVENS][遊☆戯☆王SEVENS][BDMV][1080p][Vol.6][七村@お好きに]
+2023-09-01 12:03:26.0|Trace|DownloadDecisionMaker|Processing release 702/735
+2023-09-01 12:03:26.0|Debug|DownloadDecisionMaker|Processing release '[跃动青春][Skip to Loafer][スキップとローファー][BDMV][1080p][下巻 Fin][JP]' from 'U2'
+2023-09-01 12:03:26.0|Debug|Parser|Parsing string '[跃动青春][Skip to Loafer][スキップとローファー][BDMV][1080p][下巻 Fin][JP]'
+2023-09-01 12:03:26.1|Debug|Parser|Unable to parse [跃动青春][Skip to Loafer][スキップとローファー][BDMV][1080p][下巻 Fin][JP]
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[跃动青春][Skip to Loafer][スキップとローファー][BDMV][1080p][下巻 Fin][JP]'
+2023-09-01 12:03:26.1|Debug|Parser|Unable to parse [跃动青春][Skip to Loafer][スキップとローファー][BDMV][1080p][下巻 Fin][JP]
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [跃动青春][Skip to Loafer][スキップとローファー][BDMV][1080p][下巻 Fin][JP]
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 703/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[无敌铁金刚/铁甲万能侠剧场版 1973-1976][MAZINGER THE MOVIE 1973-1976][劇場版 マジンガー 1973-1976][BDRip][2160p&1080p][Moviex13+SP Fin][HEVC FLAC][AI-Raws]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[无敌铁金刚/铁甲万能侠剧场版 1973-1976][MAZINGER THE MOVIE 1973-1976][劇場版 マジンガー 1973-1976][BDRip][2160p&1080p][Moviex13+SP Fin][HEVC FLAC][AI-Raws]'
+2023-09-01 12:03:26.1|Trace|Parser|^(?:\[(?<subgroup>.+?)\][-_. ]?)(?<title>.+?)[-_. ]+?(?<absoluteepisode>\d{4}(\.\d{1,2})?(?!\d+))
+2023-09-01 12:03:26.1|Debug|Parser|Episode Parsed. [MAZINGER THE MOVIE - 1973 
+2023-09-01 12:03:26.1|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.1|Debug|QualityParser|Trying to parse quality for [无敌铁金刚/铁甲万能侠剧场版 1973-1976][MAZINGER THE MOVIE 1973-1976][劇場版 マジンガー 1973-1976][BDRip][2160p&1080p][Moviex13+SP Fin][HEVC FLAC][AI-Raws]
+2023-09-01 12:03:26.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2023-09-01 12:03:26.1|Debug|Parser|Release Group parsed: 无敌铁金刚/铁甲万能侠剧场版 1973-1976
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [MAZINGER THE MOVIE
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Release '[无敌铁金刚/铁甲万能侠剧场版 1973-1976][MAZINGER THE MOVIE 1973-1976][劇場版 マジンガー 1973-1976][BDRip][2160p&1080p][Moviex13+SP Fin][HEVC FLAC][AI-Raws]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 704/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[怪物事变][Kemono Jihen][怪物事変][BDRip][1920x1080][TV 01-12+SP Fin][HEVC FLAC][AI-Raws]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[怪物事变][Kemono Jihen][怪物事変][BDRip][1920x1080][TV 01-12+SP Fin][HEVC FLAC][AI-Raws]'
+2023-09-01 12:03:26.1|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.1|Debug|Parser|Episode Parsed. [][TV - 001-002-003-004-005-006-007-008-009-010-011-012 
+2023-09-01 12:03:26.1|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.1|Debug|QualityParser|Trying to parse quality for [怪物事变][Kemono Jihen][怪物事変][BDRip][1920x1080][TV 01-12+SP Fin][HEVC FLAC][AI-Raws]
+2023-09-01 12:03:26.1|Debug|Parser|Quality parsed: Bluray-1080p v1
+2023-09-01 12:03:26.1|Debug|Parser|Release Group parsed: 怪物事变
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [][TV
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Release '[怪物事变][Kemono Jihen][怪物事変][BDRip][1920x1080][TV 01-12+SP Fin][HEVC FLAC][AI-Raws]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 705/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[我想成为影之强者!/想要成为影之实力者！][Kage no Jitsuryokusha ni Naritakute!][陰の実力者になりたくて！][BDRip][1920x1080][TV 01-20+SP Fin][HEVC FLAC][AI-Raws]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[我想成为影之强者!/想要成为影之实力者！][Kage no Jitsuryokusha ni Naritakute!][陰の実力者になりたくて！][BDRip][1920x1080][TV 01-20+SP Fin][HEVC FLAC][AI-Raws]'
+2023-09-01 12:03:26.1|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.1|Debug|Parser|Episode Parsed. [][TV - 001-002-003-004-005-006-007-008-009-010-011-012-013-014-015-016-017-018-019-020 
+2023-09-01 12:03:26.1|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.1|Debug|QualityParser|Trying to parse quality for [我想成为影之强者!/想要成为影之实力者！][Kage no Jitsuryokusha ni Naritakute!][陰の実力者になりたくて！][BDRip][1920x1080][TV 01-20+SP Fin][HEVC FLAC][AI-Raws]
+2023-09-01 12:03:26.1|Debug|Parser|Quality parsed: Bluray-1080p v1
+2023-09-01 12:03:26.1|Debug|Parser|Release Group parsed: 我想成为影之强者!/想要成为影之实力者！
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [][TV
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Release '[我想成为影之强者!/想要成为影之实力者！][Kage no Jitsuryokusha ni Naritakute!][陰の実力者になりたくて！][BDRip][1920x1080][TV 01-20+SP Fin][HEVC FLAC][AI-Raws]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 706/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[梦猎人丽梦][Dream Hunter Rem][ドリームハンター麗夢][BDRip][1440x1080][OVA 01-05 Fin][HEVC FLAC][AI-Raws]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[梦猎人丽梦][Dream Hunter Rem][ドリームハンター麗夢][BDRip][1440x1080][OVA 01-05 Fin][HEVC FLAC][AI-Raws]'
+2023-09-01 12:03:26.1|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.1|Debug|Parser|Episode Parsed. [OVA - 001-002-003-004-005 
+2023-09-01 12:03:26.1|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.1|Debug|QualityParser|Trying to parse quality for [梦猎人丽梦][Dream Hunter Rem][ドリームハンター麗夢][BDRip][1440x1080][OVA 01-05 Fin][HEVC FLAC][AI-Raws]
+2023-09-01 12:03:26.1|Debug|Parser|Quality parsed: Bluray-480p v1
+2023-09-01 12:03:26.1|Debug|Parser|Release Group parsed: 梦猎人丽梦
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [OVA
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Release '[梦猎人丽梦][Dream Hunter Rem][ドリームハンター麗夢][BDRip][1440x1080][OVA 01-05 Fin][HEVC FLAC][AI-Raws]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 707/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[依莉亞][Iria: Zeiram The Animation][イ・リ・ア ゼイラム][BDRip][1440x1080][OVA 01-06+SP Fin][HEVC FLAC][AI-Raws]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[依莉亞][Iria: Zeiram The Animation][イ・リ・ア ゼイラム][BDRip][1440x1080][OVA 01-06+SP Fin][HEVC FLAC][AI-Raws]'
+2023-09-01 12:03:26.1|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.1|Debug|Parser|Episode Parsed. [OVA - 001-002-003-004-005-006 
+2023-09-01 12:03:26.1|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.1|Debug|QualityParser|Trying to parse quality for [依莉亞][Iria: Zeiram The Animation][イ・リ・ア ゼイラム][BDRip][1440x1080][OVA 01-06+SP Fin][HEVC FLAC][AI-Raws]
+2023-09-01 12:03:26.1|Debug|Parser|Quality parsed: Bluray-480p v1
+2023-09-01 12:03:26.1|Debug|Parser|Release Group parsed: 依莉亞
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [OVA
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Release '[依莉亞][Iria: Zeiram The Animation][イ・リ・ア ゼイラム][BDRip][1440x1080][OVA 01-06+SP Fin][HEVC FLAC][AI-Raws]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 708/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[魔神凯撒SKL][Mazinkaizer SKL][マジンカイザーSKL][BDRip][1920x1080][OVA 01-03 Fin][HEVC FLAC][AI-Raws]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[魔神凯撒SKL][Mazinkaizer SKL][マジンカイザーSKL][BDRip][1920x1080][OVA 01-03 Fin][HEVC FLAC][AI-Raws]'
+2023-09-01 12:03:26.1|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.1|Debug|Parser|Episode Parsed. [][OVA - 001-002-003 
+2023-09-01 12:03:26.1|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.1|Debug|QualityParser|Trying to parse quality for [魔神凯撒SKL][Mazinkaizer SKL][マジンカイザーSKL][BDRip][1920x1080][OVA 01-03 Fin][HEVC FLAC][AI-Raws]
+2023-09-01 12:03:26.1|Debug|Parser|Quality parsed: Bluray-1080p v1
+2023-09-01 12:03:26.1|Debug|Parser|Release Group parsed: 魔神凯撒SKL
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [][OVA
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Release '[魔神凯撒SKL][Mazinkaizer SKL][マジンカイザーSKL][BDRip][1920x1080][OVA 01-03 Fin][HEVC FLAC][AI-Raws]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 709/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[魔神凯撒][Mazinkaiser][マジンカイザー][BDRip][1080p][OVA 01-07+MOVIE+SP Fin][HEVC FLAC][AI-Raws]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[魔神凯撒][Mazinkaiser][マジンカイザー][BDRip][1080p][OVA 01-07+MOVIE+SP Fin][HEVC FLAC][AI-Raws]'
+2023-09-01 12:03:26.1|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.1|Debug|Parser|Episode Parsed. [][OVA - 001-002-003-004-005-006-007 
+2023-09-01 12:03:26.1|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.1|Debug|QualityParser|Trying to parse quality for [魔神凯撒][Mazinkaiser][マジンカイザー][BDRip][1080p][OVA 01-07+MOVIE+SP Fin][HEVC FLAC][AI-Raws]
+2023-09-01 12:03:26.1|Debug|Parser|Quality parsed: Bluray-1080p v1
+2023-09-01 12:03:26.1|Debug|Parser|Release Group parsed: 魔神凯撒
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [][OVA
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Release '[魔神凯撒][Mazinkaiser][マジンカイザー][BDRip][1080p][OVA 01-07+MOVIE+SP Fin][HEVC FLAC][AI-Raws]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 710/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[我内心的糟糕念头][Boku no Kokoro no Yabai Yatsu][僕の心のヤバイやつ][BDMV][1080p][Vol.3 Fin][JP]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[我内心的糟糕念头][Boku no Kokoro no Yabai Yatsu][僕の心のヤバイやつ][BDMV][1080p][Vol.3 Fin][JP]'
+2023-09-01 12:03:26.1|Debug|Parser|Unable to parse [我内心的糟糕念头][Boku no Kokoro no Yabai Yatsu][僕の心のヤバイやつ][BDMV][1080p][Vol.3 Fin][JP]
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[我内心的糟糕念头][Boku no Kokoro no Yabai Yatsu][僕の心のヤバイやつ][BDMV][1080p][Vol.3 Fin][JP]'
+2023-09-01 12:03:26.1|Debug|Parser|Unable to parse [我内心的糟糕念头][Boku no Kokoro no Yabai Yatsu][僕の心のヤバイやつ][BDMV][1080p][Vol.3 Fin][JP]
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [我内心的糟糕念头][Boku no Kokoro no Yabai Yatsu][僕の心のヤバイやつ][BDMV][1080p][Vol.3 Fin][JP]
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 711/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[刀剑神域 进击篇 黯淡黄昏的谐谑曲][Sword Art Online Progressive: Scherzo of a Dark Dusk][劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ][BDRip][1920x1080][MOVIE][hevc-yuv420p10 flac atoms pgs][xyx98]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[刀剑神域 进击篇 黯淡黄昏的谐谑曲][Sword Art Online Progressive: Scherzo of a Dark Dusk][劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ][BDRip][1920x1080][MOVIE][hevc-yuv420p10 flac atoms pgs][xyx98]'
+2023-09-01 12:03:26.1|Debug|Parser|Unable to parse [刀剑神域 进击篇 黯淡黄昏的谐谑曲][Sword Art Online Progressive: Scherzo of a Dark Dusk][劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ][BDRip][1920x1080][MOVIE][hevc-yuv420p10 flac atoms pgs][xyx98]
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[刀剑神域 进击篇 黯淡黄昏的谐谑曲][Sword Art Online Progressive: Scherzo of a Dark Dusk][劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ][BDRip][1920x1080][MOVIE][hevc-yuv420p10 flac atoms pgs][xyx98]'
+2023-09-01 12:03:26.1|Debug|Parser|Unable to parse [刀剑神域 进击篇 黯淡黄昏的谐谑曲][Sword Art Online Progressive: Scherzo of a Dark Dusk][劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ][BDRip][1920x1080][MOVIE][hevc-yuv420p10 flac atoms pgs][xyx98]
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [刀剑神域 进击篇 黯淡黄昏的谐谑曲][Sword Art Online Progressive: Scherzo of a Dark Dusk][劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ][BDRip][1920x1080][MOVIE][hevc-yuv420p10 flac atoms pgs][xyx98]
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 712/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[恶魔城 第二季][Castlevania Season 2][BDMV][1080p][DISCx1 Fin][AVC][UK]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[恶魔城 第二季][Castlevania Season 2][BDMV][1080p][DISCx1 Fin][AVC][UK]'
+2023-09-01 12:03:26.1|Debug|Parser|Unable to parse [恶魔城 第二季][Castlevania Season 2][BDMV][1080p][DISCx1 Fin][AVC][UK]
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[恶魔城 第二季][Castlevania Season 2][BDMV][1080p][DISCx1 Fin][AVC][UK]'
+2023-09-01 12:03:26.1|Debug|Parser|Unable to parse [恶魔城 第二季][Castlevania Season 2][BDMV][1080p][DISCx1 Fin][AVC][UK]
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [恶魔城 第二季][Castlevania Season 2][BDMV][1080p][DISCx1 Fin][AVC][UK]
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 713/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[光之美少女 Max Heart][Futari wa Precure Max Heart][ふたりはプリキュア Max Heart][BDRip][1440x1080][TV 01-47 Fin+SP][H264 FLAC MKV][自壓]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[光之美少女 Max Heart][Futari wa Precure Max Heart][ふたりはプリキュア Max Heart][BDRip][1440x1080][TV 01-47 Fin+SP][H264 FLAC MKV][自壓]'
+2023-09-01 12:03:26.1|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.1|Debug|Parser|Episode Parsed. [TV - 001-002-003-004-005-006-007-008-009-010-011-012-013-014-015-016-017-018-019-020-021-022-023-024-025-026-027-028-029-030-031-032-033-034-035-036-037-038-039-040-041-042-043-044-045-046-047 
+2023-09-01 12:03:26.1|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.1|Debug|QualityParser|Trying to parse quality for [光之美少女 Max Heart][Futari wa Precure Max Heart][ふたりはプリキュア Max Heart][BDRip][1440x1080][TV 01-47 Fin+SP][H264 FLAC MKV][自壓]
+2023-09-01 12:03:26.1|Debug|Parser|Quality parsed: Bluray-480p v1
+2023-09-01 12:03:26.1|Debug|Parser|Release Group parsed: 光之美少女 Max Heart
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [TV
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Release '[光之美少女 Max Heart][Futari wa Precure Max Heart][ふたりはプリキュア Max Heart][BDRip][1440x1080][TV 01-47 Fin+SP][H264 FLAC MKV][自壓]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 714/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[Black Summoner / Kuro no Shoukanshi][黒の召喚士][BDMV][1080p][DISC×2 Fin][USA][自抓]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[Black Summoner / Kuro no Shoukanshi][黒の召喚士][BDMV][1080p][DISC×2 Fin][USA][自抓]'
+2023-09-01 12:03:26.1|Debug|Parser|Unable to parse [Black Summoner / Kuro no Shoukanshi][黒の召喚士][BDMV][1080p][DISC×2 Fin][USA][自抓]
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[Black Summoner / Kuro no Shoukanshi][黒の召喚士][BDMV][1080p][DISC×2 Fin][USA][自抓]'
+2023-09-01 12:03:26.1|Debug|Parser|Unable to parse [Black Summoner / Kuro no Shoukanshi][黒の召喚士][BDMV][1080p][DISC×2 Fin][USA][自抓]
+2023-09-01 12:03:26.1|Debug|ParsingService|No matching series [Black Summoner / Kuro no Shoukanshi][黒の召喚士][BDMV][1080p][DISC×2 Fin][USA][自抓]
+2023-09-01 12:03:26.1|Trace|DownloadDecisionMaker|Processing release 715/735
+2023-09-01 12:03:26.1|Debug|DownloadDecisionMaker|Processing release '[【我推的孩子】]["Oshi no Ko"][【推しの子】][BDMV][1080p][Vol.3][JP]' from 'U2'
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[【我推的孩子】]["Oshi no Ko"][【推しの子】][BDMV][1080p][Vol.3][JP]'
+2023-09-01 12:03:26.1|Debug|Parser|Unable to parse [【我推的孩子】]["Oshi no Ko"][【推しの子】][BDMV][1080p][Vol.3][JP]
+2023-09-01 12:03:26.1|Debug|Parser|Parsing string '[【我推的孩子】]["Oshi no Ko"][【推しの子】][BDMV][1080p][Vol.3][JP]'
+2023-09-01 12:03:26.1|Debug|Parser|Unable to parse [【我推的孩子】]["Oshi no Ko"][【推しの子】][BDMV][1080p][Vol.3][JP]
+2023-09-01 12:03:26.2|Debug|ParsingService|No matching series [【我推的孩子】]["Oshi no Ko"][【推しの子】][BDMV][1080p][Vol.3][JP]
+2023-09-01 12:03:26.2|Trace|DownloadDecisionMaker|Processing release 716/735
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Processing release '[偶像大师 灰姑娘女孩 U149][THE IDOLM@STER CINDERELLA GIRLS U149][アイドルマスター シンデレラガールズ U149][BDMV][1080p][Vol.2][JP][喵萌Production]' from 'U2'
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[偶像大师 灰姑娘女孩 U149][THE IDOLM@STER CINDERELLA GIRLS U149][アイドルマスター シンデレラガールズ U149][BDMV][1080p][Vol.2][JP][喵萌Production]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [偶像大师 灰姑娘女孩 U149][THE IDOLM@STER CINDERELLA GIRLS U149][アイドルマスター シンデレラガールズ U149][BDMV][1080p][Vol.2][JP][喵萌Production]
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[偶像大师 灰姑娘女孩 U149][THE IDOLM@STER CINDERELLA GIRLS U149][アイドルマスター シンデレラガールズ U149][BDMV][1080p][Vol.2][JP][喵萌Production]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [偶像大师 灰姑娘女孩 U149][THE IDOLM@STER CINDERELLA GIRLS U149][アイドルマスター シンデレラガールズ U149][BDMV][1080p][Vol.2][JP][喵萌Production]
+2023-09-01 12:03:26.2|Debug|ParsingService|No matching series [偶像大师 灰姑娘女孩 U149][THE IDOLM@STER CINDERELLA GIRLS U149][アイドルマスター シンデレラガールズ U149][BDMV][1080p][Vol.2][JP][喵萌Production]
+2023-09-01 12:03:26.2|Trace|DownloadDecisionMaker|Processing release 717/735
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Processing release '[樱子小姐的脚下埋着尸体][Beautiful Bones: Sakurako`s Investigation][櫻子さんの足下には死体が埋まっている][BDMV][DISC×2 Fin][USA][Kiyome@AB]' from 'U2'
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[樱子小姐的脚下埋着尸体][Beautiful Bones: Sakurako`s Investigation][櫻子さんの足下には死体が埋まっている][BDMV][DISC×2 Fin][USA][Kiyome@AB]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [樱子小姐的脚下埋着尸体][Beautiful Bones: Sakurako`s Investigation][櫻子さんの足下には死体が埋まっている][BDMV][DISC×2 Fin][USA][Kiyome@AB]
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[樱子小姐的脚下埋着尸体][Beautiful Bones: Sakurako`s Investigation][櫻子さんの足下には死体が埋まっている][BDMV][DISC×2 Fin][USA][Kiyome@AB]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [樱子小姐的脚下埋着尸体][Beautiful Bones: Sakurako`s Investigation][櫻子さんの足下には死体が埋まっている][BDMV][DISC×2 Fin][USA][Kiyome@AB]
+2023-09-01 12:03:26.2|Debug|ParsingService|No matching series [樱子小姐的脚下埋着尸体][Beautiful Bones: Sakurako`s Investigation][櫻子さんの足下には死体が埋まっている][BDMV][DISC×2 Fin][USA][Kiyome@AB]
+2023-09-01 12:03:26.2|Trace|DownloadDecisionMaker|Processing release 718/735
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Processing release '[天使之卵][Angel's Egg][天使のたまご][DVDISO][OVA DISCx1 Fin][R2J]' from 'U2'
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[天使之卵][Angel's Egg][天使のたまご][DVDISO][OVA DISCx1 Fin][R2J]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [天使之卵][Angel's Egg][天使のたまご][DVDISO][OVA DISCx1 Fin][R2J]
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[天使之卵][Angel's Egg][天使のたまご][DVDISO][OVA DISCx1 Fin][R2J]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [天使之卵][Angel's Egg][天使のたまご][DVDISO][OVA DISCx1 Fin][R2J]
+2023-09-01 12:03:26.2|Debug|ParsingService|No matching series [天使之卵][Angel's Egg][天使のたまご][DVDISO][OVA DISCx1 Fin][R2J]
+2023-09-01 12:03:26.2|Trace|DownloadDecisionMaker|Processing release 719/735
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Processing release '[机神咆吼Demonbane][Kishin Houkou Demonbane (2006)][機神咆吼デモンベイン (2006)][DVDISO][480i][Vol.1-Vol.6 DVD×8+CD×1 Fin][R2J]' from 'U2'
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[机神咆吼Demonbane][Kishin Houkou Demonbane (2006)][機神咆吼デモンベイン (2006)][DVDISO][480i][Vol.1-Vol.6 DVD×8+CD×1 Fin][R2J]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [机神咆吼Demonbane][Kishin Houkou Demonbane (2006)][機神咆吼デモンベイン (2006)][DVDISO][480i][Vol.1-Vol.6 DVD×8+CD×1 Fin][R2J]
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[机神咆吼Demonbane][Kishin Houkou Demonbane (2006)][機神咆吼デモンベイン (2006)][DVDISO][480i][Vol.1-Vol.6 DVD×8+CD×1 Fin][R2J]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [机神咆吼Demonbane][Kishin Houkou Demonbane (2006)][機神咆吼デモンベイン (2006)][DVDISO][480i][Vol.1-Vol.6 DVD×8+CD×1 Fin][R2J]
+2023-09-01 12:03:26.2|Debug|ParsingService|No matching series [机神咆吼Demonbane][Kishin Houkou Demonbane (2006)][機神咆吼デモンベイン (2006)][DVDISO][480i][Vol.1-Vol.6 DVD×8+CD×1 Fin][R2J]
+2023-09-01 12:03:26.2|Trace|DownloadDecisionMaker|Processing release 720/735
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Processing release '[机神咆吼Demonbane OVA][Kishin Houkou Demonbane][機神咆吼デモンベイン][DVDISO][480i][OVA DISC×2 Fin][R2J]' from 'U2'
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[机神咆吼Demonbane OVA][Kishin Houkou Demonbane][機神咆吼デモンベイン][DVDISO][480i][OVA DISC×2 Fin][R2J]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [机神咆吼Demonbane OVA][Kishin Houkou Demonbane][機神咆吼デモンベイン][DVDISO][480i][OVA DISC×2 Fin][R2J]
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[机神咆吼Demonbane OVA][Kishin Houkou Demonbane][機神咆吼デモンベイン][DVDISO][480i][OVA DISC×2 Fin][R2J]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [机神咆吼Demonbane OVA][Kishin Houkou Demonbane][機神咆吼デモンベイン][DVDISO][480i][OVA DISC×2 Fin][R2J]
+2023-09-01 12:03:26.2|Debug|ParsingService|No matching series [机神咆吼Demonbane OVA][Kishin Houkou Demonbane][機神咆吼デモンベイン][DVDISO][480i][OVA DISC×2 Fin][R2J]
+2023-09-01 12:03:26.2|Trace|DownloadDecisionMaker|Processing release 721/735
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Processing release '[向阳素描 / 暖阳涂鸦][Hidamari Sketch][ひだまりスケッチ][DVDISO][480i][Vol.1-Vol.6+SP Fin][R2J]' from 'U2'
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[向阳素描 / 暖阳涂鸦][Hidamari Sketch][ひだまりスケッチ][DVDISO][480i][Vol.1-Vol.6+SP Fin][R2J]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [向阳素描 / 暖阳涂鸦][Hidamari Sketch][ひだまりスケッチ][DVDISO][480i][Vol.1-Vol.6+SP Fin][R2J]
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[向阳素描 / 暖阳涂鸦][Hidamari Sketch][ひだまりスケッチ][DVDISO][480i][Vol.1-Vol.6+SP Fin][R2J]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [向阳素描 / 暖阳涂鸦][Hidamari Sketch][ひだまりスケッチ][DVDISO][480i][Vol.1-Vol.6+SP Fin][R2J]
+2023-09-01 12:03:26.2|Debug|ParsingService|No matching series [向阳素描 / 暖阳涂鸦][Hidamari Sketch][ひだまりスケッチ][DVDISO][480i][Vol.1-Vol.6+SP Fin][R2J]
+2023-09-01 12:03:26.2|Trace|DownloadDecisionMaker|Processing release 722/735
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Processing release '[百合是我的工作!][Watashi no Yuri wa Oshigoto Desu!][私の百合はお仕事です!][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]' from 'U2'
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[百合是我的工作!][Watashi no Yuri wa Oshigoto Desu!][私の百合はお仕事です!][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]'
+2023-09-01 12:03:26.2|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.2|Debug|Parser|Episode Parsed. [][TV - 001-002-003-004-005-006-007-008-009-010-011-012 
+2023-09-01 12:03:26.2|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.2|Debug|QualityParser|Trying to parse quality for [百合是我的工作!][Watashi no Yuri wa Oshigoto Desu!][私の百合はお仕事です!][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]
+2023-09-01 12:03:26.2|Debug|Parser|Quality parsed: Bluray-1080p v1
+2023-09-01 12:03:26.2|Debug|Parser|Release Group parsed: 百合是我的工作!
+2023-09-01 12:03:26.2|Debug|ParsingService|No matching series [][TV
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Release '[百合是我的工作!][Watashi no Yuri wa Oshigoto Desu!][私の百合はお仕事です!][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.2|Trace|DownloadDecisionMaker|Processing release 723/735
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Processing release '[不知内情的转学生不管三七二十一缠了上来][Jijou o Shiranai Tenkousei ga Guigui Kuru.][事情を知らない転校生がグイグイくる。][BDRip][1920x1080][TV 01-13 Fin+SP][H264 FLAC MKV][自壓]' from 'U2'
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[不知内情的转学生不管三七二十一缠了上来][Jijou o Shiranai Tenkousei ga Guigui Kuru.][事情を知らない転校生がグイグイくる。][BDRip][1920x1080][TV 01-13 Fin+SP][H264 FLAC MKV][自壓]'
+2023-09-01 12:03:26.2|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.2|Debug|Parser|Episode Parsed. [][TV - 001-002-003-004-005-006-007-008-009-010-011-012-013 
+2023-09-01 12:03:26.2|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.2|Debug|QualityParser|Trying to parse quality for [不知内情的转学生不管三七二十一缠了上来][Jijou o Shiranai Tenkousei ga Guigui Kuru.][事情を知らない転校生がグイグイくる。][BDRip][1920x1080][TV 01-13 Fin+SP][H264 FLAC MKV][自壓]
+2023-09-01 12:03:26.2|Debug|Parser|Quality parsed: Bluray-1080p v1
+2023-09-01 12:03:26.2|Debug|Parser|Release Group parsed: 不知内情的转学生不管三七二十一缠了上来
+2023-09-01 12:03:26.2|Debug|ParsingService|No matching series [][TV
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Release '[不知内情的转学生不管三七二十一缠了上来][Jijou o Shiranai Tenkousei ga Guigui Kuru.][事情を知らない転校生がグイグイくる。][BDRip][1920x1080][TV 01-13 Fin+SP][H264 FLAC MKV][自壓]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.2|Trace|DownloadDecisionMaker|Processing release 724/735
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Processing release '[百合是我的工作！][Watashi no Yuri wa Oshigoto Desu!][私の百合はお仕事です！][BDMV][1080p][Vol.3 Fin][JP]' from 'U2'
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[百合是我的工作！][Watashi no Yuri wa Oshigoto Desu!][私の百合はお仕事です！][BDMV][1080p][Vol.3 Fin][JP]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [百合是我的工作！][Watashi no Yuri wa Oshigoto Desu!][私の百合はお仕事です！][BDMV][1080p][Vol.3 Fin][JP]
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[百合是我的工作！][Watashi no Yuri wa Oshigoto Desu!][私の百合はお仕事です！][BDMV][1080p][Vol.3 Fin][JP]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [百合是我的工作！][Watashi no Yuri wa Oshigoto Desu!][私の百合はお仕事です！][BDMV][1080p][Vol.3 Fin][JP]
+2023-09-01 12:03:26.2|Debug|ParsingService|No matching series [百合是我的工作！][Watashi no Yuri wa Oshigoto Desu!][私の百合はお仕事です！][BDMV][1080p][Vol.3 Fin][JP]
+2023-09-01 12:03:26.2|Trace|DownloadDecisionMaker|Processing release 725/735
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Processing release '[不知内情的转学生不管三七二十一缠了上来][Jijou o Shiranai Tenkousei ga Guigui Kuru.][事情を知らない転校生がグイグイくる。][BDMV][BD-BOX Discx2 Fin][Lupin the Nerd@Nyaa]' from 'U2'
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[不知内情的转学生不管三七二十一缠了上来][Jijou o Shiranai Tenkousei ga Guigui Kuru.][事情を知らない転校生がグイグイくる。][BDMV][BD-BOX Discx2 Fin][Lupin the Nerd@Nyaa]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [不知内情的转学生不管三七二十一缠了上来][Jijou o Shiranai Tenkousei ga Guigui Kuru.][事情を知らない転校生がグイグイくる。][BDMV][BD-BOX Discx2 Fin][Lupin the Nerd@Nyaa]
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[不知内情的转学生不管三七二十一缠了上来][Jijou o Shiranai Tenkousei ga Guigui Kuru.][事情を知らない転校生がグイグイくる。][BDMV][BD-BOX Discx2 Fin][Lupin the Nerd@Nyaa]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [不知内情的转学生不管三七二十一缠了上来][Jijou o Shiranai Tenkousei ga Guigui Kuru.][事情を知らない転校生がグイグイくる。][BDMV][BD-BOX Discx2 Fin][Lupin the Nerd@Nyaa]
+2023-09-01 12:03:26.2|Debug|ParsingService|No matching series [不知内情的转学生不管三七二十一缠了上来][Jijou o Shiranai Tenkousei ga Guigui Kuru.][事情を知らない転校生がグイグイくる。][BDMV][BD-BOX Discx2 Fin][Lupin the Nerd@Nyaa]
+2023-09-01 12:03:26.2|Trace|DownloadDecisionMaker|Processing release 726/735
+2023-09-01 12:03:26.2|Debug|DownloadDecisionMaker|Processing release '[花與愛麗絲殺人事件][The Murder Case of Hana & Alice][花とアリス殺人事件][BDMV][1080p][MOVIE][USA][aCant]' from 'U2'
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[花與愛麗絲殺人事件][The Murder Case of Hana & Alice][花とアリス殺人事件][BDMV][1080p][MOVIE][USA][aCant]'
+2023-09-01 12:03:26.2|Debug|Parser|Unable to parse [花與愛麗絲殺人事件][The Murder Case of Hana & Alice][花とアリス殺人事件][BDMV][1080p][MOVIE][USA][aCant]
+2023-09-01 12:03:26.2|Debug|Parser|Parsing string '[花與愛麗絲殺人事件][The Murder Case of Hana & Alice][花とアリス殺人事件][BDMV][1080p][MOVIE][USA][aCant]'
+2023-09-01 12:03:26.3|Debug|Parser|Unable to parse [花與愛麗絲殺人事件][The Murder Case of Hana & Alice][花とアリス殺人事件][BDMV][1080p][MOVIE][USA][aCant]
+2023-09-01 12:03:26.3|Debug|ParsingService|No matching series [花與愛麗絲殺人事件][The Murder Case of Hana & Alice][花とアリス殺人事件][BDMV][1080p][MOVIE][USA][aCant]
+2023-09-01 12:03:26.3|Trace|DownloadDecisionMaker|Processing release 727/735
+2023-09-01 12:03:26.3|Debug|DownloadDecisionMaker|Processing release '[海盗战记第2季][Vinland Saga Season 2][ヴィンランド・サガ SEASON2][BDRip][1920x1080][TV 01-24 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]' from 'U2'
+2023-09-01 12:03:26.3|Debug|Parser|Parsing string '[海盗战记第2季][Vinland Saga Season 2][ヴィンランド・サガ SEASON2][BDRip][1920x1080][TV 01-24 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]'
+2023-09-01 12:03:26.3|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.3|Debug|Parser|Episode Parsed. [][TV - 001-002-003-004-005-006-007-008-009-010-011-012-013-014-015-016-017-018-019-020-021-022-023-024 
+2023-09-01 12:03:26.3|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.3|Debug|QualityParser|Trying to parse quality for [海盗战记第2季][Vinland Saga Season 2][ヴィンランド・サガ SEASON2][BDRip][1920x1080][TV 01-24 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]
+2023-09-01 12:03:26.3|Debug|Parser|Quality parsed: Bluray-1080p v1
+2023-09-01 12:03:26.3|Debug|Parser|Release Group parsed: 海盗战记第2季
+2023-09-01 12:03:26.3|Debug|ParsingService|No matching series [][TV
+2023-09-01 12:03:26.3|Debug|DownloadDecisionMaker|Release '[海盗战记第2季][Vinland Saga Season 2][ヴィンランド・サガ SEASON2][BDRip][1920x1080][TV 01-24 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.3|Trace|DownloadDecisionMaker|Processing release 728/735
+2023-09-01 12:03:26.3|Debug|DownloadDecisionMaker|Processing release '[勇者死了!][Yuusha ga Shinda!][勇者が死んだ!][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]' from 'U2'
+2023-09-01 12:03:26.3|Debug|Parser|Parsing string '[勇者死了!][Yuusha ga Shinda!][勇者が死んだ!][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]'
+2023-09-01 12:03:26.3|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.3|Debug|Parser|Episode Parsed. [][TV - 001-002-003-004-005-006-007-008-009-010-011-012 
+2023-09-01 12:03:26.3|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.3|Debug|QualityParser|Trying to parse quality for [勇者死了!][Yuusha ga Shinda!][勇者が死んだ!][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]
+2023-09-01 12:03:26.3|Debug|Parser|Quality parsed: Bluray-1080p v1
+2023-09-01 12:03:26.3|Debug|Parser|Release Group parsed: 勇者死了!
+2023-09-01 12:03:26.3|Debug|ParsingService|No matching series [][TV
+2023-09-01 12:03:26.3|Debug|DownloadDecisionMaker|Release '[勇者死了!][Yuusha ga Shinda!][勇者が死んだ!][BDRip][1920x1080][TV 01-12 Fin+SP][H264 FLAC MKV][自壓(付相關專輯)]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.3|Trace|DownloadDecisionMaker|Processing release 729/735
+2023-09-01 12:03:26.3|Debug|DownloadDecisionMaker|Processing release '[天使夜未眠][Earthian][アーシアン][BDRip][1440x1080][OVA 01-04 Fin+SP][H264 FLAC MKV][自壓]' from 'U2'
+2023-09-01 12:03:26.3|Debug|Parser|Parsing string '[天使夜未眠][Earthian][アーシアン][BDRip][1440x1080][OVA 01-04 Fin+SP][H264 FLAC MKV][自壓]'
+2023-09-01 12:03:26.3|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.3|Debug|Parser|Episode Parsed. [OVA - 001-002-003-004 
+2023-09-01 12:03:26.3|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.3|Debug|QualityParser|Trying to parse quality for [天使夜未眠][Earthian][アーシアン][BDRip][1440x1080][OVA 01-04 Fin+SP][H264 FLAC MKV][自壓]
+2023-09-01 12:03:26.3|Debug|Parser|Quality parsed: Bluray-480p v1
+2023-09-01 12:03:26.3|Debug|Parser|Release Group parsed: 天使夜未眠
+2023-09-01 12:03:26.3|Debug|ParsingService|No matching series [OVA
+2023-09-01 12:03:26.3|Debug|DownloadDecisionMaker|Release '[天使夜未眠][Earthian][アーシアン][BDRip][1440x1080][OVA 01-04 Fin+SP][H264 FLAC MKV][自壓]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.3|Trace|DownloadDecisionMaker|Processing release 730/735
+2023-09-01 12:03:26.3|Debug|DownloadDecisionMaker|Processing release '[冰海战记 第二季][Vinland Saga Season 2][ヴィンランド・サガ SEASON2][BDMV][1080p][BD-BOX DISCx2 Fin][AVC][YE]' from 'U2'
+2023-09-01 12:03:26.3|Debug|Parser|Parsing string '[冰海战记 第二季][Vinland Saga Season 2][ヴィンランド・サガ SEASON2][BDMV][1080p][BD-BOX DISCx2 Fin][AVC][YE]'
+2023-09-01 12:03:26.3|Debug|Parser|Unable to parse [冰海战记 第二季][Vinland Saga Season 2][ヴィンランド・サガ SEASON2][BDMV][1080p][BD-BOX DISCx2 Fin][AVC][YE]
+2023-09-01 12:03:26.3|Debug|Parser|Parsing string '[冰海战记 第二季][Vinland Saga Season 2][ヴィンランド・サガ SEASON2][BDMV][1080p][BD-BOX DISCx2 Fin][AVC][YE]'
+2023-09-01 12:03:26.3|Debug|Parser|Unable to parse [冰海战记 第二季][Vinland Saga Season 2][ヴィンランド・サガ SEASON2][BDMV][1080p][BD-BOX DISCx2 Fin][AVC][YE]
+2023-09-01 12:03:26.3|Debug|ParsingService|No matching series [冰海战记 第二季][Vinland Saga Season 2][ヴィンランド・サガ SEASON2][BDMV][1080p][BD-BOX DISCx2 Fin][AVC][YE]
+2023-09-01 12:03:26.3|Trace|DownloadDecisionMaker|Processing release 731/735
+2023-09-01 12:03:26.3|Debug|DownloadDecisionMaker|Processing release '[勇者死了！][Yuusha ga Shinda!][勇者が死んだ!][BDMV][1080p][BDBOX DISCx2 Fin][AVC][YE]' from 'U2'
+2023-09-01 12:03:26.3|Debug|Parser|Parsing string '[勇者死了！][Yuusha ga Shinda!][勇者が死んだ!][BDMV][1080p][BDBOX DISCx2 Fin][AVC][YE]'
+2023-09-01 12:03:26.3|Debug|Parser|Unable to parse [勇者死了！][Yuusha ga Shinda!][勇者が死んだ!][BDMV][1080p][BDBOX DISCx2 Fin][AVC][YE]
+2023-09-01 12:03:26.3|Debug|Parser|Parsing string '[勇者死了！][Yuusha ga Shinda!][勇者が死んだ!][BDMV][1080p][BDBOX DISCx2 Fin][AVC][YE]'
+2023-09-01 12:03:26.3|Debug|Parser|Unable to parse [勇者死了！][Yuusha ga Shinda!][勇者が死んだ!][BDMV][1080p][BDBOX DISCx2 Fin][AVC][YE]
+2023-09-01 12:03:26.3|Debug|ParsingService|No matching series [勇者死了！][Yuusha ga Shinda!][勇者が死んだ!][BDMV][1080p][BDBOX DISCx2 Fin][AVC][YE]
+2023-09-01 12:03:26.3|Trace|DownloadDecisionMaker|Processing release 732/735
+2023-09-01 12:03:26.3|Debug|DownloadDecisionMaker|Processing release '[古代王者 恐龙王 翼龙传说][Dinosaur King: Season 2][古代王者 恐竜キング Dキッズ・アドベンチャー 翼竜伝説][BDMV][480i][BDx1 Fin][MPEG-4 AVC][USA]' from 'U2'
+2023-09-01 12:03:26.3|Debug|Parser|Parsing string '[古代王者 恐龙王 翼龙传说][Dinosaur King: Season 2][古代王者 恐竜キング Dキッズ・アドベンチャー 翼竜伝説][BDMV][480i][BDx1 Fin][MPEG-4 AVC][USA]'
+2023-09-01 12:03:26.3|Debug|Parser|Unable to parse [古代王者 恐龙王 翼龙传说][Dinosaur King: Season 2][古代王者 恐竜キング Dキッズ・アドベンチャー 翼竜伝説][BDMV][480i][BDx1 Fin][MPEG-4 AVC][USA]
+2023-09-01 12:03:26.3|Debug|Parser|Parsing string '[古代王者 恐龙王 翼龙传说][Dinosaur King: Season 2][古代王者 恐竜キング Dキッズ・アドベンチャー 翼竜伝説][BDMV][480i][BDx1 Fin][MPEG-4 AVC][USA]'
+2023-09-01 12:03:26.3|Debug|Parser|Unable to parse [古代王者 恐龙王 翼龙传说][Dinosaur King: Season 2][古代王者 恐竜キング Dキッズ・アドベンチャー 翼竜伝説][BDMV][480i][BDx1 Fin][MPEG-4 AVC][USA]
+2023-09-01 12:03:26.3|Debug|ParsingService|No matching series [古代王者 恐龙王 翼龙传说][Dinosaur King: Season 2][古代王者 恐竜キング Dキッズ・アドベンチャー 翼竜伝説][BDMV][480i][BDx1 Fin][MPEG-4 AVC][USA]
+2023-09-01 12:03:26.3|Trace|DownloadDecisionMaker|Processing release 733/735
+2023-09-01 12:03:26.3|Debug|DownloadDecisionMaker|Processing release '[古代王者 恐龍王][Dinosaur King][古代王者 恐竜キング][BDMV][480i][BDx1 Fin][MPEG-4 AVC][USA]' from 'U2'
+2023-09-01 12:03:26.3|Debug|Parser|Parsing string '[古代王者 恐龍王][Dinosaur King][古代王者 恐竜キング][BDMV][480i][BDx1 Fin][MPEG-4 AVC][USA]'
+2023-09-01 12:03:26.3|Debug|Parser|Unable to parse [古代王者 恐龍王][Dinosaur King][古代王者 恐竜キング][BDMV][480i][BDx1 Fin][MPEG-4 AVC][USA]
+2023-09-01 12:03:26.3|Debug|Parser|Parsing string '[古代王者 恐龍王][Dinosaur King][古代王者 恐竜キング][BDMV][480i][BDx1 Fin][MPEG-4 AVC][USA]'
+2023-09-01 12:03:26.4|Debug|Parser|Unable to parse [古代王者 恐龍王][Dinosaur King][古代王者 恐竜キング][BDMV][480i][BDx1 Fin][MPEG-4 AVC][USA]
+2023-09-01 12:03:26.4|Debug|ParsingService|No matching series [古代王者 恐龍王][Dinosaur King][古代王者 恐竜キング][BDMV][480i][BDx1 Fin][MPEG-4 AVC][USA]
+2023-09-01 12:03:26.4|Trace|DownloadDecisionMaker|Processing release 734/735
+2023-09-01 12:03:26.4|Debug|DownloadDecisionMaker|Processing release '[花辫儿小神明][Mitsuami no Kamisama][みつあみの神様][BDMV][1080p][Vol.1 Fin][GBR][VEXHD]' from 'U2'
+2023-09-01 12:03:26.4|Debug|Parser|Parsing string '[花辫儿小神明][Mitsuami no Kamisama][みつあみの神様][BDMV][1080p][Vol.1 Fin][GBR][VEXHD]'
+2023-09-01 12:03:26.4|Debug|Parser|Unable to parse [花辫儿小神明][Mitsuami no Kamisama][みつあみの神様][BDMV][1080p][Vol.1 Fin][GBR][VEXHD]
+2023-09-01 12:03:26.4|Debug|Parser|Parsing string '[花辫儿小神明][Mitsuami no Kamisama][みつあみの神様][BDMV][1080p][Vol.1 Fin][GBR][VEXHD]'
+2023-09-01 12:03:26.4|Debug|Parser|Unable to parse [花辫儿小神明][Mitsuami no Kamisama][みつあみの神様][BDMV][1080p][Vol.1 Fin][GBR][VEXHD]
+2023-09-01 12:03:26.4|Debug|ParsingService|No matching series [花辫儿小神明][Mitsuami no Kamisama][みつあみの神様][BDMV][1080p][Vol.1 Fin][GBR][VEXHD]
+2023-09-01 12:03:26.4|Trace|DownloadDecisionMaker|Processing release 735/735
+2023-09-01 12:03:26.4|Debug|DownloadDecisionMaker|Processing release '[剧场版 男子游泳部 The Final Stroke][Gekijouban Free! The Final Stroke][劇場版 Free!-the Final Stroke-][BDMV][1080p][Vol.02(後篇) Fin][GER][ANiMEHD]' from 'U2'
+2023-09-01 12:03:26.4|Debug|Parser|Parsing string '[剧场版 男子游泳部 The Final Stroke][Gekijouban Free! The Final Stroke][劇場版 Free!-the Final Stroke-][BDMV][1080p][Vol.02(後篇) Fin][GER][ANiMEHD]'
+2023-09-01 12:03:26.4|Trace|Parser|^\[(?<subgroup>.+?)\][-_. ]?(?<title>.+?)[-_. ]+\(?(?:[-_. ]?#?(?<absoluteepisode>\d{2,3}(\.\d{1,2})?(?!\d+|-[a-z]+)))+\)?(?:[-_. ]+(?<special>special|ova|ovd))?.*?(?<hash>\[\w{8}\])?(?:$|\.mkv)
+2023-09-01 12:03:26.4|Debug|Parser|Episode Parsed. [][Vol - 002 
+2023-09-01 12:03:26.4|Debug|Parser|Languages parsed: Unknown
+2023-09-01 12:03:26.4|Debug|QualityParser|Trying to parse quality for [剧场版 男子游泳部 The Final Stroke][Gekijouban Free! The Final Stroke][劇場版 Free!-the Final Stroke-][BDMV][1080p][Vol.02(後篇) Fin][GER][ANiMEHD]
+2023-09-01 12:03:26.4|Debug|Parser|Quality parsed: HDTV-1080p v1
+2023-09-01 12:03:26.4|Debug|Parser|Release Group parsed: 剧场版 男子游泳部 The Final Stroke
+2023-09-01 12:03:26.4|Debug|ParsingService|No matching series [][Vol
+2023-09-01 12:03:26.4|Debug|DownloadDecisionMaker|Release '[剧场版 男子游泳部 The Final Stroke][Gekijouban Free! The Final Stroke][劇場版 Free!-the Final Stroke-][BDMV][1080p][Vol.02(後篇) Fin][GER][ANiMEHD]' from 'U2' rejected for the following reasons: [Permanent] Unknown Series
+2023-09-01 12:03:26.4|Info|RssSyncService|RSS Sync Completed. Reports found: 735, Reports grabbed: 0
+2023-09-01 12:03:26.4|Trace|EventAggregator|Publishing RssSyncCompleteEvent
+2023-09-01 12:03:26.4|Trace|EventAggregator|RssSyncCompleteEvent -> PendingReleaseService
+2023-09-01 12:03:26.4|Debug|PendingReleaseService|Removing failed releases from pending
+2023-09-01 12:03:26.5|Trace|EventAggregator|RssSyncCompleteEvent <- PendingReleaseService
+2023-09-01 12:03:26.5|Trace|CommandQueueManager|Updating command status
+2023-09-01 12:03:27.4|Trace|EventAggregator|Publishing CommandUpdatedEvent
+2023-09-01 12:03:27.4|Trace|EventAggregator|CommandUpdatedEvent -> CommandController
+2023-09-01 12:03:27.4|Trace|EventAggregator|CommandUpdatedEvent <- CommandController
+2023-09-01 12:03:27.4|Trace|EventAggregator|Publishing CommandExecutedEvent
+2023-09-01 12:03:27.4|Trace|EventAggregator|CommandExecutedEvent -> TaskManager
+2023-09-01 12:03:27.4|Trace|TaskManager|Updating last run time for: NzbDrone.Core.Indexers.RssSyncCommand
+2023-09-01 12:03:27.8|Trace|EventAggregator|CommandExecutedEvent <- TaskManager
+2023-09-01 12:03:27.8|Trace|EventAggregator|CommandExecutedEvent -> TaskController
+2023-09-01 12:03:27.8|Trace|EventAggregator|CommandExecutedEvent <- TaskController
+2023-09-01 12:03:27.8|Trace|EventAggregator|CommandExecutedEvent -> QualityDefinitionController
+2023-09-01 12:03:27.8|Trace|EventAggregator|CommandExecutedEvent <- QualityDefinitionController
+2023-09-01 12:03:27.8|Trace|CommandExecutor|RssSyncCommand <- RssSyncService [00:00:17.3456446]
+2023-09-01 12:03:27.8|Trace|Http|Req: 2783 [GET] /api/v3/command (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
+2023-09-01 12:03:27.8|Trace|CommandQueueManager|Getting all commands
+2023-09-01 12:03:27.8|Trace|Http|Res: 2783 [GET] /api/v3/command: 200.OK (1 ms)
+2023-09-01 12:03:27.8|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2023-09-01 12:03:30.0|Trace|Http|Req: 2784 [GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:33:29.999Z&apikey=(removed) (from 10.10.10.2 Java/17.0.8)
+2023-09-01 12:03:30.0|Trace|Http|Res: 2784 [GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:33:29.999Z&apikey=(removed) 200.OK (23 ms)
+2023-09-01 12:03:30.0|Debug|Api|[GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:33:29.999Z&apikey=(removed) 200.OK (23 ms)
+2023-09-01 12:03:39.1|Trace|Scheduler|Pending Tasks: 1
+2023-09-01 12:03:39.1|Trace|CommandQueueManager|Publishing RefreshMonitoredDownloads
+2023-09-01 12:03:39.1|Trace|CommandQueueManager|Checking if command is queued or started: RefreshMonitoredDownloads
+2023-09-01 12:03:39.1|Trace|CommandQueueManager|Inserting new command: RefreshMonitoredDownloads
+2023-09-01 12:03:39.4|Trace|CommandExecutor|RefreshMonitoredDownloadsCommand -> DownloadMonitoringService
+2023-09-01 12:03:39.4|Trace|CommandQueueManager|Marking command as started: RefreshMonitoredDownloads
+2023-09-01 12:03:40.4|Trace|HttpClient|Req: [GET] http://10.10.10.7:8080/api/v2/app/webapiVersion
+2023-09-01 12:03:40.5|Trace|ConfigService|Using default config value for 'proxyenabled' defaultValue:'False'
+2023-09-01 12:03:40.5|Trace|HttpClient|Res: HTTP/1.1 [GET] http://10.10.10.7:8080/api/v2/app/webapiVersion: 200.OK (6 bytes) (164 ms)
+2023-09-01 12:03:40.5|Trace|HttpClient|Response content (6 bytes): 2.8.19
+2023-09-01 12:03:40.5|Trace|HttpClient|Req: [GET] http://10.10.10.7:8080/api/v2/app/preferences
+2023-09-01 12:03:40.5|Trace|ConfigService|Using default config value for 'proxyenabled' defaultValue:'False'
+2023-09-01 12:03:40.7|Trace|HttpClient|Res: HTTP/1.1 [GET] http://10.10.10.7:8080/api/v2/app/preferences: 200.OK (4916 bytes) (122 ms)
+2023-09-01 12:03:40.7|Trace|HttpClient|Response content (4916 bytes): {"add_trackers":"","add_trackers_enabled":false,"alt_dl_limit":10240000,"alt_up_limit":0,"alternative_webui_enabled":false,"alternative_webui_path":"","announce_ip":"","announce_to_all_tiers":true,"announce_to_all_trackers":true,"anonymous_mode":false,"async_io_threads":10,"auto_delete_mode":0,"auto_tmm_enabled":false,"autorun_enabled":false,"autorun_on_torrent_added_enabled":false,"autorun_on_torrent_added_program":"","autorun_program":"/downloads/tmm.sh","banned_IPs":"","bittorrent_protocol":0,"block_peers_on_privileged_ports":false,"bypass_auth_subnet_whitelist":"","bypass_auth_subnet_whitelist_enabled":false,"bypass_local_auth":false,"category_changed_tmm_enabled":false,"checking_memory_use":32,"connection_speed":30,"current_interface_address":"","current_network_interface":"","dht":false,"disk_cache":-1,"disk_cache_ttl":60,"disk_io_read_mode":1,"disk_io_type":0,"disk_io_write_mode":1,"disk_queue_size":1048576,"dl_limit":0,"dont_count_slow_torrents":false,"dyndns_domain":"changeme.dyndns.org","dyndns_enabled":false,"dyndns_password":"","dyndns_service":0,"dyndns_username":"","embedded_tracker_port":9000,"embedded_tracker_port_forwarding":false,"enable_coalesce_read_write":false,"enable_embedded_tracker":false,"enable_multi_connections_from_same_ip":true,"enable_piece_extent_affinity":false,"enable_upload_suggestions":false,"encryption":0,"excluded_file_names":"","excluded_file_names_enabled":false,"export_dir":"","export_dir_fin":"","file_pool_size":5000,"hashing_threads":1,"idn_support_enabled":false,"incomplete_files_ext":true,"ip_filter_enabled":false,"ip_filter_path":"","ip_filter_trackers":false,"limit_lan_peers":false,"limit_tcp_overhead":false,"limit_utp_rate":false,"listen_port":28188,"locale":"zh_CN","lsd":false,"mail_notification_auth_enabled":true,"mail_notification_email":"","mail_notification_enabled":false,"mail_notification_password":"","mail_notification_sender":"qBittorrent_notification@example.com","mail_notification_smtp":"smtp.changeme.com","mail_notification_ssl_enabled":false,"mail_notification_username":"","max_active_checking_torrents":10,"max_active_downloads":3,"max_active_torrents":5,"max_active_uploads":3,"max_concurrent_http_announces":50,"max_connec":1000,"max_connec_per_torrent":30,"max_ratio":-1,"max_ratio_act":0,"max_ratio_enabled":false,"max_seeding_time":-1,"max_seeding_time_enabled":false,"max_uploads":-1,"max_uploads_per_torrent":-1,"memory_working_set_limit":512,"outgoing_ports_max":0,"outgoing_ports_min":0,"peer_tos":4,"peer_turnover":4,"peer_turnover_cutoff":90,"peer_turnover_interval":300,"performance_warning":false,"pex":false,"preallocate_all":true,"proxy_auth_enabled":false,"proxy_hostname_lookup":true,"proxy_ip":"0.0.0.0","proxy_password":"","proxy_peer_connections":false,"proxy_port":8080,"proxy_torrents_only":false,"proxy_type":0,"proxy_username":"","queueing_enabled":false,"random_port":false,"reannounce_when_address_changed":true,"recheck_completed_torrents":false,"refresh_interval":1500,"request_queue_size":500,"resolve_peer_countries":true,"resume_data_storage_type":"Legacy","rss_auto_downloading_enabled":false,"rss_download_repack_proper_episodes":true,"rss_max_articles_per_feed":50,"rss_processing_enabled":false,"rss_refresh_interval":30,"rss_smart_episode_filters":"s(\\d+)e(\\d+)\n(\\d+)x(\\d+)\n(\\d{4}[.\\-]\\d{1,2}[.\\-]\\d{1,2})\n(\\d{1,2}[.\\-]\\d{1,2}[.\\-]\\d{4})","save_path":"/downloads","save_path_changed_tmm_enabled":false,"save_resume_data_interval":60,"scan_dirs":{"/downloads/torrent":1},"schedule_from_hour":8,"schedule_from_min":0,"schedule_to_hour":20,"schedule_to_min":0,"scheduler_days":0,"scheduler_enabled":false,"send_buffer_low_watermark":10,"send_buffer_watermark":500,"send_buffer_watermark_factor":50,"slow_torrent_dl_rate_threshold":2,"slow_torrent_inactive_timer":60,"slow_torrent_ul_rate_threshold":2,"socket_backlog_size":30,"ssrf_mitigation":true,"start_paused_enabled":false,"stop_tracker_timeout":5,"temp_path":"/downloads/incomplete","temp_path_enabled":false,"torrent_changed_tmm_enabled":true,"torrent_content_layout":"Original","torrent_stop_condition":"None","up_limit":0,"upload_choking_algorithm":1,"upload_slots_behavior":1,"upnp":false,"upnp_lease_duration":0,"use_category_paths_in_manual_mode":false,"use_https":false,"utp_tcp_mixed_mode":0,"validate_https_tracker_certificate":true,"web_ui_address":"*","web_ui_ban_duration":3600,"web_ui_clickjacking_protection_enabled":false,"web_ui_csrf_protection_enabled":false,"web_ui_custom_http_headers":"","web_ui_domain_list":"*","web_ui_host_header_validation_enabled":false,"web_ui_https_cert_path":"","web_ui_https_key_path":"","web_ui_max_auth_fail_count":5,"web_ui_port":8080,"web_ui_reverse_proxies_list":"","web_ui_reverse_proxy_enabled":false,"web_ui_secure_cookie_enabled":true,"web_ui_session_timeout":3600,"web_ui_upnp":false,"web_ui_use_custom_http_headers_enabled":false,"web_ui_username":"(removed)"}
+2023-09-01 12:03:40.7|Trace|HttpClient|Req: [GET] http://10.10.10.7:8080/api/v2/torrents/info?category=Sonarr
+2023-09-01 12:03:40.7|Trace|ConfigService|Using default config value for 'proxyenabled' defaultValue:'False'
+2023-09-01 12:03:40.7|Trace|HttpClient|Res: HTTP/1.1 [GET] http://10.10.10.7:8080/api/v2/torrents/info?category=Sonarr: 200.OK (7854 bytes) (5 ms)
+2023-09-01 12:03:40.7|Trace|HttpClient|Response content (7854 bytes): [{"added_on":1693529688,"amount_left":0,"auto_tmm":false,"availability":-1,"category":"Sonarr","completed":1329769383,"completion_on":1693530054,"content_path":"/downloads/Wrong Carriage Right Groom S1E9 [Chinese][2160P][WEBDL][-ADWeb]/S1E9.mp4","dl_limit":0,"dlspeed":0,"download_path":"","downloaded":1336218960,"downloaded_session":1336218960,"eta":8640000,"f_l_piece_prio":false,"force_start":false,"hash":"239dcc0cddc4e840dfd64d8ca10ae48d260ab5b1","infohash_v1":"239dcc0cddc4e840dfd64d8ca10ae48d260ab5b1","infohash_v2":"","last_activity":1693537338,"magnet_uri":"magnet:?xt=urn:btih:239dcc0cddc4e840dfd64d8ca10ae48d260ab5b1&dn=%e8%8a%b1%e8%bd%bf%e5%96%9c%e4%ba%8b.Wrong.Carriage.Right.Groom.S01.2023.2160p.WEB-DL.H265.AAC-ADWeb&tr=https%3a%2f%2ft.audiences.me%2fannounce.php%3fpasskey%3d(removed)&tr=https%3a%2f%2ftracker.cinefiles.info%2fannounce.php%3fpasskey%3d(removed)","max_ratio":-1,"max_seeding_time":-1,"name":"Wrong Carriage Right Groom S1E9 [Chinese][2160P][WEBDL][-ADWeb]","num_complete":115,"num_incomplete":4,"num_leechs":2,"num_seeds":0,"priority":0,"progress":1,"ratio":0.0005648078814867288,"ratio_limit":-2,"save_path":"/downloads","seeding_time":10966,"seeding_time_limit":-2,"seen_complete":1693530071,"seq_dl":false,"size":1329769383,"state":"stalledUP","super_seeding":false,"tags":"","time_active":11331,"total_size":1329769383,"tracker":"https://tracker.cinefiles.info/announce.php?passkey=(removed)","trackers_count":2,"up_limit":0,"uploaded":754707,"uploaded_session":754707,"upspeed":0},{"added_on":1693529695,"amount_left":0,"auto_tmm":false,"availability":-1,"category":"Sonarr","completed":6186560969,"completion_on":1693530922,"content_path":"/downloads/Wrong Carriage Right Groom S1E1-E4 [Chinese][2160P][WEBDL][-ADWeb]","dl_limit":0,"dlspeed":0,"download_path":"","downloaded":6202313776,"downloaded_session":6202313776,"eta":8640000,"f_l_piece_prio":false,"force_start":false,"hash":"bcad2bf359d2ae61635fadb9d0e5b84b22d1833c","infohash_v1":"bcad2bf359d2ae61635fadb9d0e5b84b22d1833c","infohash_v2":"","last_activity":1693536833,"magnet_uri":"magnet:?xt=urn:btih:bcad2bf359d2ae61635fadb9d0e5b84b22d1833c&dn=%e8%8a%b1%e8%bd%bf%e5%96%9c%e4%ba%8b.Wrong.Carriage.Right.Groom.S01.2023.2160p.WEB-DL.H265.AAC-ADWeb&tr=https%3a%2f%2ft.audiences.me%2fannounce.php%3fpasskey%3d(removed)&tr=https%3a%2f%2ftracker.cinefiles.info%2fannounce.php%3fpasskey%3d(removed)","max_ratio":-1,"max_seeding_time":-1,"name":"Wrong Carriage Right Groom S1E1-E4 [Chinese][2160P][WEBDL][-ADWeb]","num_complete":77,"num_incomplete":0,"num_leechs":0,"num_seeds":0,"priority":0,"progress":1,"ratio":0.0007998856844678282,"ratio_limit":-2,"save_path":"/downloads","seeding_time":10098,"seeding_time_limit":-2,"seen_complete":1693536906,"seq_dl":false,"size":6186560969,"state":"stalledUP","super_seeding":false,"tags":"","time_active":11325,"total_size":6186560969,"tracker":"https://t.audiences.me/announce.php?passkey=(removed)","trackers_count":2,"up_limit":0,"uploaded":4961142,"uploaded_session":4961142,"upspeed":0},{"added_on":1693529690,"amount_left":0,"auto_tmm":false,"availability":-1,"category":"Sonarr","completed":3853850473,"completion_on":1693531034,"content_path":"/downloads/Wrong Carriage Right Groom S1E5-E6 [2160P][WEBDL][-HDSWEB]","dl_limit":0,"dlspeed":0,"download_path":"","downloaded":3862464390,"downloaded_session":3862464390,"eta":8640000,"f_l_piece_prio":false,"force_start":false,"hash":"7151b34a5a1516eeb34a9da384dc570f07bb83b9","infohash_v1":"7151b34a5a1516eeb34a9da384dc570f07bb83b9","infohash_v2":"","last_activity":1693531034,"magnet_uri":"magnet:?xt=urn:btih:7151b34a5a1516eeb34a9da384dc570f07bb83b9&dn=%e8%8a%b1%e8%bd%bf%e5%96%9c%e4%ba%8b.Wrong.Carriage.Right.Groom.S01.2023.2160p.WEB-DL.AAC.60fps.H265-HDSWEB&tr=https%3a%2f%2ftracker.hdsky.me%2fannounce.php%3fpasskey%3d(removed)","max_ratio":-1,"max_seeding_time":-1,"name":"Wrong Carriage Right Groom S1E5-E6 [2160P][WEBDL][-HDSWEB]","num_complete":43,"num_incomplete":1,"num_leechs":0,"num_seeds":0,"priority":0,"progress":1,"ratio":0,"ratio_limit":-2,"save_path":"/downloads","seeding_time":9976,"seeding_time_limit":-2,"seen_complete":1693531034,"seq_dl":false,"size":3853850473,"state":"stalledUP","super_seeding":false,"tags":"","time_active":11319,"total_size":3853850473,"tracker":"https://tracker.hdsky.me/announce.php?passkey=(removed)","trackers_count":1,"up_limit":0,"uploaded":0,"uploaded_session":0,"upspeed":0},{"added_on":1693529692,"amount_left":0,"auto_tmm":false,"availability":-1,"category":"Sonarr","completed":3202370222,"completion_on":1693530661,"content_path":"/downloads/Wrong Carriage Right Groom S1E7-E8 [2160P][WEBDL][-HDSWEB]","dl_limit":0,"dlspeed":0,"download_path":"","downloaded":3210238697,"downloaded_session":3210238697,"eta":8640000,"f_l_piece_prio":false,"force_start":false,"hash":"259072b97cbab6fb05ce32c122e65f74b439fbbd","infohash_v1":"259072b97cbab6fb05ce32c122e65f74b439fbbd","infohash_v2":"","last_activity":1693540683,"magnet_uri":"magnet:?xt=urn:btih:259072b97cbab6fb05ce32c122e65f74b439fbbd&dn=%e8%8a%b1%e8%bd%bf%e5%96%9c%e4%ba%8b.Wrong.Carriage.Right.Groom.S01.2023.2160p.WEB-DL.AAC.60fps.H265-HDSWEB&tr=https%3a%2f%2ftracker.hdsky.me%2fannounce.php%3fpasskey%3d(removed)","max_ratio":-1,"max_seeding_time":-1,"name":"Wrong Carriage Right Groom S1E7-E8 [2160P][WEBDL][-HDSWEB]","num_complete":52,"num_incomplete":1,"num_leechs":0,"num_seeds":0,"priority":0,"progress":1,"ratio":0.0001358254139816694,"ratio_limit":-2,"save_path":"/downloads","seeding_time":10340,"seeding_time_limit":-2,"seen_complete":1693530661,"seq_dl":false,"size":3202370222,"state":"stalledUP","super_seeding":false,"tags":"","time_active":11308,"total_size":3202370222,"tracker":"https://tracker.hdsky.me/announce.php?passkey=(removed)","trackers_count":1,"up_limit":0,"uploaded":436032,"uploaded_session":436032,"upspeed":0},{"added_on":1693527454,"amount_left":0,"auto_tmm":false,"availability":-1,"category":"Sonarr","completed":18743455816,"completion_on":1693529075,"content_path":"/downloads/ONE PIECE (2023) S1 [Chinese][1080P][WEBDL][-CMRG]","dl_limit":0,"dlspeed":0,"download_path":"","downloaded":18749312886,"downloaded_session":18749312886,"eta":8640000,"f_l_piece_prio":false,"force_start":false,"hash":"f185eb0f1aa31bac4992586b9fb6832f81e1677a","infohash_v1":"f185eb0f1aa31bac4992586b9fb6832f81e1677a","infohash_v2":"","last_activity":1693529075,"magnet_uri":"magnet:?xt=urn:btih:f185eb0f1aa31bac4992586b9fb6832f81e1677a&dn=One.Piece.2023.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-CMRG&tr=https%3a%2f%2ft.audiences.me%2fannounce.php%3fpasskey%3d(removed)&tr=https%3a%2f%2ftracker.cinefiles.info%2fannounce.php%3fpasskey%3d(removed)","max_ratio":-1,"max_seeding_time":-1,"name":"ONE PIECE (2023) S1 [Chinese][1080P][WEBDL][-CMRG]","num_complete":17,"num_incomplete":1,"num_leechs":0,"num_seeds":0,"priority":0,"progress":1,"ratio":0,"ratio_limit":-2,"save_path":"/downloads","seeding_time":11946,"seeding_time_limit":-2,"seen_complete":1693529074,"seq_dl":false,"size":18743455816,"state":"stalledUP","super_seeding":false,"tags":"","time_active":13566,"total_size":18743455816,"tracker":"https://tracker.cinefiles.info/announce.php?passkey=(removed)","trackers_count":2,"up_limit":0,"uploaded":0,"uploaded_session":0,"upspeed":0}]
+2023-09-01 12:03:40.7|Trace|RemotePathMappingService|Evaluating remote path remote mappings for match to host [10.10.10.7] and remote path [/downloads/Wrong Carriage Right Groom S1E9 [Chinese][2160P][WEBDL][-ADWeb]/S1E9.mp4]
+2023-09-01 12:03:40.7|Trace|RemotePathMappingService|Checking configured remote path mapping: 10.10.10.7 - /downloads/
+2023-09-01 12:03:40.7|Debug|RemotePathMappingService|Remapped remote path [/downloads/Wrong Carriage Right Groom S1E9 [Chinese][2160P][WEBDL][-ADWeb]/S1E9.mp4] to local path [/volume2/PT/qbittorrent/Wrong Carriage Right Groom S1E9 [Chinese][2160P][WEBDL][-ADWeb]/S1E9.mp4] for host [10.10.10.7]
+2023-09-01 12:03:40.7|Trace|RemotePathMappingService|Evaluating remote path remote mappings for match to host [10.10.10.7] and remote path [/downloads/Wrong Carriage Right Groom S1E1-E4 [Chinese][2160P][WEBDL][-ADWeb]]
+2023-09-01 12:03:40.7|Trace|RemotePathMappingService|Checking configured remote path mapping: 10.10.10.7 - /downloads/
+2023-09-01 12:03:40.7|Debug|RemotePathMappingService|Remapped remote path [/downloads/Wrong Carriage Right Groom S1E1-E4 [Chinese][2160P][WEBDL][-ADWeb]] to local path [/volume2/PT/qbittorrent/Wrong Carriage Right Groom S1E1-E4 [Chinese][2160P][WEBDL][-ADWeb]] for host [10.10.10.7]
+2023-09-01 12:03:40.7|Trace|RemotePathMappingService|Evaluating remote path remote mappings for match to host [10.10.10.7] and remote path [/downloads/Wrong Carriage Right Groom S1E5-E6 [2160P][WEBDL][-HDSWEB]]
+2023-09-01 12:03:40.7|Trace|RemotePathMappingService|Checking configured remote path mapping: 10.10.10.7 - /downloads/
+2023-09-01 12:03:40.7|Debug|RemotePathMappingService|Remapped remote path [/downloads/Wrong Carriage Right Groom S1E5-E6 [2160P][WEBDL][-HDSWEB]] to local path [/volume2/PT/qbittorrent/Wrong Carriage Right Groom S1E5-E6 [2160P][WEBDL][-HDSWEB]] for host [10.10.10.7]
+2023-09-01 12:03:40.7|Trace|RemotePathMappingService|Evaluating remote path remote mappings for match to host [10.10.10.7] and remote path [/downloads/Wrong Carriage Right Groom S1E7-E8 [2160P][WEBDL][-HDSWEB]]
+2023-09-01 12:03:40.7|Trace|RemotePathMappingService|Checking configured remote path mapping: 10.10.10.7 - /downloads/
+2023-09-01 12:03:40.7|Debug|RemotePathMappingService|Remapped remote path [/downloads/Wrong Carriage Right Groom S1E7-E8 [2160P][WEBDL][-HDSWEB]] to local path [/volume2/PT/qbittorrent/Wrong Carriage Right Groom S1E7-E8 [2160P][WEBDL][-HDSWEB]] for host [10.10.10.7]
+2023-09-01 12:03:40.7|Trace|RemotePathMappingService|Evaluating remote path remote mappings for match to host [10.10.10.7] and remote path [/downloads/ONE PIECE (2023) S1 [Chinese][1080P][WEBDL][-CMRG]]
+2023-09-01 12:03:40.7|Trace|RemotePathMappingService|Checking configured remote path mapping: 10.10.10.7 - /downloads/
+2023-09-01 12:03:40.7|Debug|RemotePathMappingService|Remapped remote path [/downloads/ONE PIECE (2023) S1 [Chinese][1080P][WEBDL][-CMRG]] to local path [/volume2/PT/qbittorrent/ONE PIECE (2023) S1 [Chinese][1080P][WEBDL][-CMRG]] for host [10.10.10.7]
+2023-09-01 12:03:40.9|Trace|EventAggregator|Publishing TrackedDownloadRefreshedEvent
+2023-09-01 12:03:40.9|Trace|EventAggregator|TrackedDownloadRefreshedEvent -> QueueService
+2023-09-01 12:03:40.9|Trace|EventAggregator|Publishing QueueUpdatedEvent
+2023-09-01 12:03:40.9|Trace|EventAggregator|QueueUpdatedEvent -> QueueController
+2023-09-01 12:03:40.9|Trace|EventAggregator|QueueUpdatedEvent <- QueueController
+2023-09-01 12:03:40.9|Trace|EventAggregator|QueueUpdatedEvent -> QueueDetailsController
+2023-09-01 12:03:40.9|Trace|EventAggregator|QueueUpdatedEvent <- QueueDetailsController
+2023-09-01 12:03:40.9|Trace|EventAggregator|QueueUpdatedEvent -> QueueStatusController
+2023-09-01 12:03:40.9|Trace|EventAggregator|QueueUpdatedEvent <- QueueStatusController
+2023-09-01 12:03:40.9|Trace|EventAggregator|TrackedDownloadRefreshedEvent <- QueueService
+2023-09-01 12:03:40.9|Trace|CommandQueueManager|Publishing ProcessMonitoredDownloads
+2023-09-01 12:03:40.9|Trace|CommandQueueManager|Checking if command is queued or started: ProcessMonitoredDownloads
+2023-09-01 12:03:40.9|Trace|CommandQueueManager|Inserting new command: ProcessMonitoredDownloads
+2023-09-01 12:03:41.1|Trace|CommandQueueManager|Updating command status
+2023-09-01 12:03:41.1|Trace|CommandExecutor|ProcessMonitoredDownloadsCommand -> DownloadProcessingService
+2023-09-01 12:03:41.1|Trace|CommandQueueManager|Marking command as started: ProcessMonitoredDownloads
+2023-09-01 12:03:41.3|Trace|EventAggregator|Publishing DownloadsProcessedEvent
+2023-09-01 12:03:41.3|Trace|EventAggregator|DownloadsProcessedEvent -> DownloadMonitoringService
+2023-09-01 12:03:41.3|Trace|EventAggregator|Publishing TrackedDownloadRefreshedEvent
+2023-09-01 12:03:41.3|Trace|EventAggregator|TrackedDownloadRefreshedEvent -> QueueService
+2023-09-01 12:03:41.3|Trace|EventAggregator|Publishing QueueUpdatedEvent
+2023-09-01 12:03:41.3|Trace|EventAggregator|QueueUpdatedEvent -> QueueController
+2023-09-01 12:03:41.3|Trace|EventAggregator|QueueUpdatedEvent <- QueueController
+2023-09-01 12:03:41.3|Trace|EventAggregator|QueueUpdatedEvent -> QueueDetailsController
+2023-09-01 12:03:41.3|Trace|EventAggregator|QueueUpdatedEvent <- QueueDetailsController
+2023-09-01 12:03:41.3|Trace|EventAggregator|QueueUpdatedEvent -> QueueStatusController
+2023-09-01 12:03:41.3|Trace|EventAggregator|QueueUpdatedEvent <- QueueStatusController
+2023-09-01 12:03:41.3|Trace|EventAggregator|TrackedDownloadRefreshedEvent <- QueueService
+2023-09-01 12:03:41.3|Trace|EventAggregator|DownloadsProcessedEvent <- DownloadMonitoringService
+2023-09-01 12:03:41.3|Trace|CommandQueueManager|Updating command status
+2023-09-01 12:03:41.3|Trace|EventAggregator|DownloadsProcessedEvent ~> NotificationService
+2023-09-01 12:03:41.3|Trace|EventAggregator|DownloadsProcessedEvent <~ NotificationService
+2023-09-01 12:03:41.5|Trace|EventAggregator|Publishing CommandExecutedEvent
+2023-09-01 12:03:41.5|Trace|EventAggregator|CommandExecutedEvent -> TaskManager
+2023-09-01 12:03:41.5|Trace|EventAggregator|CommandExecutedEvent <- TaskManager
+2023-09-01 12:03:41.5|Trace|EventAggregator|CommandExecutedEvent -> TaskController
+2023-09-01 12:03:41.5|Trace|EventAggregator|CommandExecutedEvent <- TaskController
+2023-09-01 12:03:41.5|Trace|EventAggregator|CommandExecutedEvent -> QualityDefinitionController
+2023-09-01 12:03:41.5|Trace|EventAggregator|CommandExecutedEvent <- QualityDefinitionController
+2023-09-01 12:03:41.5|Trace|CommandExecutor|ProcessMonitoredDownloadsCommand <- DownloadProcessingService [00:00:00.1996082]
+2023-09-01 12:03:41.6|Trace|Http|Req: 2785 [GET] /api/v3/command (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
+2023-09-01 12:03:41.6|Trace|CommandQueueManager|Getting all commands
+2023-09-01 12:03:41.6|Trace|Http|Res: 2785 [GET] /api/v3/command: 200.OK (2 ms)
+2023-09-01 12:03:41.6|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2023-09-01 12:03:41.8|Trace|EventAggregator|Publishing CommandExecutedEvent
+2023-09-01 12:03:41.8|Trace|EventAggregator|CommandExecutedEvent -> TaskManager
+2023-09-01 12:03:41.8|Trace|TaskManager|Updating last run time for: NzbDrone.Core.Download.RefreshMonitoredDownloadsCommand
+2023-09-01 12:03:41.9|Trace|EventAggregator|CommandExecutedEvent <- TaskManager
+2023-09-01 12:03:41.9|Trace|EventAggregator|CommandExecutedEvent -> TaskController
+2023-09-01 12:03:41.9|Trace|EventAggregator|CommandExecutedEvent <- TaskController
+2023-09-01 12:03:41.9|Trace|EventAggregator|CommandExecutedEvent -> QualityDefinitionController
+2023-09-01 12:03:41.9|Trace|EventAggregator|CommandExecutedEvent <- QualityDefinitionController
+2023-09-01 12:03:41.9|Trace|CommandExecutor|RefreshMonitoredDownloadsCommand <- DownloadMonitoringService [00:00:01.7142689]
+2023-09-01 12:03:41.9|Trace|Http|Req: 2786 [GET] /api/v3/command (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
+2023-09-01 12:03:41.9|Trace|CommandQueueManager|Getting all commands
+2023-09-01 12:03:41.9|Trace|Http|Res: 2786 [GET] /api/v3/command: 200.OK (1 ms)
+2023-09-01 12:03:41.9|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2023-09-01 12:04:00.0|Trace|Http|Req: 2787 [GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:34:00.051Z&apikey=(removed) (from 10.10.10.2 Java/17.0.8)
+2023-09-01 12:04:00.1|Trace|Http|Res: 2787 [GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:34:00.051Z&apikey=(removed) 200.OK (119 ms)
+2023-09-01 12:04:00.1|Debug|Api|[GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:34:00.051Z&apikey=(removed) 200.OK (119 ms)
+2023-09-01 12:04:09.4|Trace|Scheduler|Pending Tasks: 0
+2023-09-01 12:04:30.0|Trace|Http|Req: 2788 [GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:34:29.999Z&apikey=(removed) (from 10.10.10.2 Java/17.0.8)
+2023-09-01 12:04:30.3|Trace|Http|Res: 2788 [GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:34:29.999Z&apikey=(removed) 200.OK (304 ms)
+2023-09-01 12:04:30.3|Debug|Api|[GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:34:29.999Z&apikey=(removed) 200.OK (304 ms)
+2023-09-01 12:04:39.4|Trace|Scheduler|Pending Tasks: 0
+2023-09-01 12:05:00.0|Trace|Http|Req: 2789 [GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:34:59.999Z&apikey=(removed) (from 10.10.10.2 Java/17.0.8)
+2023-09-01 12:05:00.1|Trace|Http|Res: 2789 [GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:34:59.999Z&apikey=(removed) 200.OK (181 ms)
+2023-09-01 12:05:00.1|Debug|Api|[GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:34:59.999Z&apikey=(removed) 200.OK (181 ms)
+2023-09-01 12:05:09.5|Trace|Scheduler|Pending Tasks: 1
+2023-09-01 12:05:10.4|Trace|CommandQueueManager|Publishing RefreshMonitoredDownloads
+2023-09-01 12:05:10.4|Trace|CommandQueueManager|Checking if command is queued or started: RefreshMonitoredDownloads
+2023-09-01 12:05:10.4|Trace|CommandQueueManager|Inserting new command: RefreshMonitoredDownloads
+2023-09-01 12:05:12.0|Trace|CommandExecutor|RefreshMonitoredDownloadsCommand -> DownloadMonitoringService
+2023-09-01 12:05:12.0|Trace|CommandQueueManager|Marking command as started: RefreshMonitoredDownloads
+2023-09-01 12:05:13.4|Trace|HttpClient|Req: [GET] http://10.10.10.7:8080/api/v2/app/webapiVersion
+2023-09-01 12:05:13.7|Trace|ConfigService|Using default config value for 'proxyenabled' defaultValue:'False'
+2023-09-01 12:05:14.2|Trace|HttpClient|Res: HTTP/1.1 [GET] http://10.10.10.7:8080/api/v2/app/webapiVersion: 200.OK (6 bytes) (841 ms)
+2023-09-01 12:05:14.2|Trace|HttpClient|Response content (6 bytes): 2.8.19
+2023-09-01 12:05:14.2|Trace|HttpClient|Req: [GET] http://10.10.10.7:8080/api/v2/app/preferences
+2023-09-01 12:05:14.6|Trace|ConfigService|Using default config value for 'proxyenabled' defaultValue:'False'
+2023-09-01 12:05:15.1|Trace|HttpClient|Res: HTTP/1.1 [GET] http://10.10.10.7:8080/api/v2/app/preferences: 200.OK (4916 bytes) (478 ms)
+2023-09-01 12:05:15.2|Trace|HttpClient|Response content (4916 bytes): {"add_trackers":"","add_trackers_enabled":false,"alt_dl_limit":10240000,"alt_up_limit":0,"alternative_webui_enabled":false,"alternative_webui_path":"","announce_ip":"","announce_to_all_tiers":true,"announce_to_all_trackers":true,"anonymous_mode":false,"async_io_threads":10,"auto_delete_mode":0,"auto_tmm_enabled":false,"autorun_enabled":false,"autorun_on_torrent_added_enabled":false,"autorun_on_torrent_added_program":"","autorun_program":"/downloads/tmm.sh","banned_IPs":"","bittorrent_protocol":0,"block_peers_on_privileged_ports":false,"bypass_auth_subnet_whitelist":"","bypass_auth_subnet_whitelist_enabled":false,"bypass_local_auth":false,"category_changed_tmm_enabled":false,"checking_memory_use":32,"connection_speed":30,"current_interface_address":"","current_network_interface":"","dht":false,"disk_cache":-1,"disk_cache_ttl":60,"disk_io_read_mode":1,"disk_io_type":0,"disk_io_write_mode":1,"disk_queue_size":1048576,"dl_limit":0,"dont_count_slow_torrents":false,"dyndns_domain":"changeme.dyndns.org","dyndns_enabled":false,"dyndns_password":"","dyndns_service":0,"dyndns_username":"","embedded_tracker_port":9000,"embedded_tracker_port_forwarding":false,"enable_coalesce_read_write":false,"enable_embedded_tracker":false,"enable_multi_connections_from_same_ip":true,"enable_piece_extent_affinity":false,"enable_upload_suggestions":false,"encryption":0,"excluded_file_names":"","excluded_file_names_enabled":false,"export_dir":"","export_dir_fin":"","file_pool_size":5000,"hashing_threads":1,"idn_support_enabled":false,"incomplete_files_ext":true,"ip_filter_enabled":false,"ip_filter_path":"","ip_filter_trackers":false,"limit_lan_peers":false,"limit_tcp_overhead":false,"limit_utp_rate":false,"listen_port":28188,"locale":"zh_CN","lsd":false,"mail_notification_auth_enabled":true,"mail_notification_email":"","mail_notification_enabled":false,"mail_notification_password":"","mail_notification_sender":"qBittorrent_notification@example.com","mail_notification_smtp":"smtp.changeme.com","mail_notification_ssl_enabled":false,"mail_notification_username":"","max_active_checking_torrents":10,"max_active_downloads":3,"max_active_torrents":5,"max_active_uploads":3,"max_concurrent_http_announces":50,"max_connec":1000,"max_connec_per_torrent":30,"max_ratio":-1,"max_ratio_act":0,"max_ratio_enabled":false,"max_seeding_time":-1,"max_seeding_time_enabled":false,"max_uploads":-1,"max_uploads_per_torrent":-1,"memory_working_set_limit":512,"outgoing_ports_max":0,"outgoing_ports_min":0,"peer_tos":4,"peer_turnover":4,"peer_turnover_cutoff":90,"peer_turnover_interval":300,"performance_warning":false,"pex":false,"preallocate_all":true,"proxy_auth_enabled":false,"proxy_hostname_lookup":true,"proxy_ip":"0.0.0.0","proxy_password":"","proxy_peer_connections":false,"proxy_port":8080,"proxy_torrents_only":false,"proxy_type":0,"proxy_username":"","queueing_enabled":false,"random_port":false,"reannounce_when_address_changed":true,"recheck_completed_torrents":false,"refresh_interval":1500,"request_queue_size":500,"resolve_peer_countries":true,"resume_data_storage_type":"Legacy","rss_auto_downloading_enabled":false,"rss_download_repack_proper_episodes":true,"rss_max_articles_per_feed":50,"rss_processing_enabled":false,"rss_refresh_interval":30,"rss_smart_episode_filters":"s(\\d+)e(\\d+)\n(\\d+)x(\\d+)\n(\\d{4}[.\\-]\\d{1,2}[.\\-]\\d{1,2})\n(\\d{1,2}[.\\-]\\d{1,2}[.\\-]\\d{4})","save_path":"/downloads","save_path_changed_tmm_enabled":false,"save_resume_data_interval":60,"scan_dirs":{"/downloads/torrent":1},"schedule_from_hour":8,"schedule_from_min":0,"schedule_to_hour":20,"schedule_to_min":0,"scheduler_days":0,"scheduler_enabled":false,"send_buffer_low_watermark":10,"send_buffer_watermark":500,"send_buffer_watermark_factor":50,"slow_torrent_dl_rate_threshold":2,"slow_torrent_inactive_timer":60,"slow_torrent_ul_rate_threshold":2,"socket_backlog_size":30,"ssrf_mitigation":true,"start_paused_enabled":false,"stop_tracker_timeout":5,"temp_path":"/downloads/incomplete","temp_path_enabled":false,"torrent_changed_tmm_enabled":true,"torrent_content_layout":"Original","torrent_stop_condition":"None","up_limit":0,"upload_choking_algorithm":1,"upload_slots_behavior":1,"upnp":false,"upnp_lease_duration":0,"use_category_paths_in_manual_mode":false,"use_https":false,"utp_tcp_mixed_mode":0,"validate_https_tracker_certificate":true,"web_ui_address":"*","web_ui_ban_duration":3600,"web_ui_clickjacking_protection_enabled":false,"web_ui_csrf_protection_enabled":false,"web_ui_custom_http_headers":"","web_ui_domain_list":"*","web_ui_host_header_validation_enabled":false,"web_ui_https_cert_path":"","web_ui_https_key_path":"","web_ui_max_auth_fail_count":5,"web_ui_port":8080,"web_ui_reverse_proxies_list":"","web_ui_reverse_proxy_enabled":false,"web_ui_secure_cookie_enabled":true,"web_ui_session_timeout":3600,"web_ui_upnp":false,"web_ui_use_custom_http_headers_enabled":false,"web_ui_username":"(removed)"}
+2023-09-01 12:05:15.5|Trace|HttpClient|Req: [GET] http://10.10.10.7:8080/api/v2/torrents/info?category=Sonarr
+2023-09-01 12:05:15.5|Trace|ConfigService|Using default config value for 'proxyenabled' defaultValue:'False'
+2023-09-01 12:05:15.8|Trace|HttpClient|Res: HTTP/1.1 [GET] http://10.10.10.7:8080/api/v2/torrents/info?category=Sonarr: 200.OK (7855 bytes) (246 ms)
+2023-09-01 12:05:15.8|Trace|HttpClient|Response content (7855 bytes): [{"added_on":1693529688,"amount_left":0,"auto_tmm":false,"availability":-1,"category":"Sonarr","completed":1329769383,"completion_on":1693530054,"content_path":"/downloads/Wrong Carriage Right Groom S1E9 [Chinese][2160P][WEBDL][-ADWeb]/S1E9.mp4","dl_limit":0,"dlspeed":0,"download_path":"","downloaded":1336218960,"downloaded_session":1336218960,"eta":8640000,"f_l_piece_prio":false,"force_start":false,"hash":"239dcc0cddc4e840dfd64d8ca10ae48d260ab5b1","infohash_v1":"239dcc0cddc4e840dfd64d8ca10ae48d260ab5b1","infohash_v2":"","last_activity":1693537338,"magnet_uri":"magnet:?xt=urn:btih:239dcc0cddc4e840dfd64d8ca10ae48d260ab5b1&dn=%e8%8a%b1%e8%bd%bf%e5%96%9c%e4%ba%8b.Wrong.Carriage.Right.Groom.S01.2023.2160p.WEB-DL.H265.AAC-ADWeb&tr=https%3a%2f%2ft.audiences.me%2fannounce.php%3fpasskey%3d(removed)&tr=https%3a%2f%2ftracker.cinefiles.info%2fannounce.php%3fpasskey%3d(removed)","max_ratio":-1,"max_seeding_time":-1,"name":"Wrong Carriage Right Groom S1E9 [Chinese][2160P][WEBDL][-ADWeb]","num_complete":115,"num_incomplete":4,"num_leechs":8,"num_seeds":0,"priority":0,"progress":1,"ratio":0.0005648078814867288,"ratio_limit":-2,"save_path":"/downloads","seeding_time":11060,"seeding_time_limit":-2,"seen_complete":1693530071,"seq_dl":false,"size":1329769383,"state":"stalledUP","super_seeding":false,"tags":"","time_active":11425,"total_size":1329769383,"tracker":"https://tracker.cinefiles.info/announce.php?passkey=(removed)","trackers_count":2,"up_limit":0,"uploaded":754707,"uploaded_session":754707,"upspeed":0},{"added_on":1693529695,"amount_left":0,"auto_tmm":false,"availability":-1,"category":"Sonarr","completed":6186560969,"completion_on":1693530922,"content_path":"/downloads/Wrong Carriage Right Groom S1E1-E4 [Chinese][2160P][WEBDL][-ADWeb]","dl_limit":0,"dlspeed":0,"download_path":"","downloaded":6202313776,"downloaded_session":6202313776,"eta":8640000,"f_l_piece_prio":false,"force_start":false,"hash":"bcad2bf359d2ae61635fadb9d0e5b84b22d1833c","infohash_v1":"bcad2bf359d2ae61635fadb9d0e5b84b22d1833c","infohash_v2":"","last_activity":1693536833,"magnet_uri":"magnet:?xt=urn:btih:bcad2bf359d2ae61635fadb9d0e5b84b22d1833c&dn=%e8%8a%b1%e8%bd%bf%e5%96%9c%e4%ba%8b.Wrong.Carriage.Right.Groom.S01.2023.2160p.WEB-DL.H265.AAC-ADWeb&tr=https%3a%2f%2ft.audiences.me%2fannounce.php%3fpasskey%3d(removed)&tr=https%3a%2f%2ftracker.cinefiles.info%2fannounce.php%3fpasskey%3d(removed)","max_ratio":-1,"max_seeding_time":-1,"name":"Wrong Carriage Right Groom S1E1-E4 [Chinese][2160P][WEBDL][-ADWeb]","num_complete":77,"num_incomplete":0,"num_leechs":0,"num_seeds":0,"priority":0,"progress":1,"ratio":0.0007998856844678282,"ratio_limit":-2,"save_path":"/downloads","seeding_time":10192,"seeding_time_limit":-2,"seen_complete":1693536906,"seq_dl":false,"size":6186560969,"state":"stalledUP","super_seeding":false,"tags":"","time_active":11419,"total_size":6186560969,"tracker":"https://t.audiences.me/announce.php?passkey=(removed)","trackers_count":2,"up_limit":0,"uploaded":4961142,"uploaded_session":4961142,"upspeed":0},{"added_on":1693529690,"amount_left":0,"auto_tmm":false,"availability":-1,"category":"Sonarr","completed":3853850473,"completion_on":1693531034,"content_path":"/downloads/Wrong Carriage Right Groom S1E5-E6 [2160P][WEBDL][-HDSWEB]","dl_limit":0,"dlspeed":0,"download_path":"","downloaded":3862464390,"downloaded_session":3862464390,"eta":8640000,"f_l_piece_prio":false,"force_start":false,"hash":"7151b34a5a1516eeb34a9da384dc570f07bb83b9","infohash_v1":"7151b34a5a1516eeb34a9da384dc570f07bb83b9","infohash_v2":"","last_activity":1693531034,"magnet_uri":"magnet:?xt=urn:btih:7151b34a5a1516eeb34a9da384dc570f07bb83b9&dn=%e8%8a%b1%e8%bd%bf%e5%96%9c%e4%ba%8b.Wrong.Carriage.Right.Groom.S01.2023.2160p.WEB-DL.AAC.60fps.H265-HDSWEB&tr=https%3a%2f%2ftracker.hdsky.me%2fannounce.php%3fpasskey%3d(removed)","max_ratio":-1,"max_seeding_time":-1,"name":"Wrong Carriage Right Groom S1E5-E6 [2160P][WEBDL][-HDSWEB]","num_complete":43,"num_incomplete":1,"num_leechs":0,"num_seeds":0,"priority":0,"progress":1,"ratio":0,"ratio_limit":-2,"save_path":"/downloads","seeding_time":10067,"seeding_time_limit":-2,"seen_complete":1693531034,"seq_dl":false,"size":3853850473,"state":"stalledUP","super_seeding":false,"tags":"","time_active":11410,"total_size":3853850473,"tracker":"https://tracker.hdsky.me/announce.php?passkey=(removed)","trackers_count":1,"up_limit":0,"uploaded":0,"uploaded_session":0,"upspeed":0},{"added_on":1693529692,"amount_left":0,"auto_tmm":false,"availability":-1,"category":"Sonarr","completed":3202370222,"completion_on":1693530661,"content_path":"/downloads/Wrong Carriage Right Groom S1E7-E8 [2160P][WEBDL][-HDSWEB]","dl_limit":0,"dlspeed":0,"download_path":"","downloaded":3210238697,"downloaded_session":3210238697,"eta":8640000,"f_l_piece_prio":false,"force_start":false,"hash":"259072b97cbab6fb05ce32c122e65f74b439fbbd","infohash_v1":"259072b97cbab6fb05ce32c122e65f74b439fbbd","infohash_v2":"","last_activity":1693540683,"magnet_uri":"magnet:?xt=urn:btih:259072b97cbab6fb05ce32c122e65f74b439fbbd&dn=%e8%8a%b1%e8%bd%bf%e5%96%9c%e4%ba%8b.Wrong.Carriage.Right.Groom.S01.2023.2160p.WEB-DL.AAC.60fps.H265-HDSWEB&tr=https%3a%2f%2ftracker.hdsky.me%2fannounce.php%3fpasskey%3d(removed)","max_ratio":-1,"max_seeding_time":-1,"name":"Wrong Carriage Right Groom S1E7-E8 [2160P][WEBDL][-HDSWEB]","num_complete":52,"num_incomplete":1,"num_leechs":0,"num_seeds":0,"priority":0,"progress":1,"ratio":0.0001358254139816694,"ratio_limit":-2,"save_path":"/downloads","seeding_time":10453,"seeding_time_limit":-2,"seen_complete":1693530661,"seq_dl":false,"size":3202370222,"state":"stalledUP","super_seeding":false,"tags":"","time_active":11421,"total_size":3202370222,"tracker":"https://tracker.hdsky.me/announce.php?passkey=(removed)","trackers_count":1,"up_limit":0,"uploaded":436032,"uploaded_session":436032,"upspeed":0},{"added_on":1693527454,"amount_left":0,"auto_tmm":false,"availability":-1,"category":"Sonarr","completed":18743455816,"completion_on":1693529075,"content_path":"/downloads/ONE PIECE (2023) S1 [Chinese][1080P][WEBDL][-CMRG]","dl_limit":0,"dlspeed":0,"download_path":"","downloaded":18749312886,"downloaded_session":18749312886,"eta":8640000,"f_l_piece_prio":false,"force_start":false,"hash":"f185eb0f1aa31bac4992586b9fb6832f81e1677a","infohash_v1":"f185eb0f1aa31bac4992586b9fb6832f81e1677a","infohash_v2":"","last_activity":1693529075,"magnet_uri":"magnet:?xt=urn:btih:f185eb0f1aa31bac4992586b9fb6832f81e1677a&dn=One.Piece.2023.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-CMRG&tr=https%3a%2f%2ft.audiences.me%2fannounce.php%3fpasskey%3d(removed)&tr=https%3a%2f%2ftracker.cinefiles.info%2fannounce.php%3fpasskey%3d(removed)","max_ratio":-1,"max_seeding_time":-1,"name":"ONE PIECE (2023) S1 [Chinese][1080P][WEBDL][-CMRG]","num_complete":17,"num_incomplete":1,"num_leechs":1,"num_seeds":0,"priority":0,"progress":1,"ratio":0,"ratio_limit":-2,"save_path":"/downloads","seeding_time":12040,"seeding_time_limit":-2,"seen_complete":1693529074,"seq_dl":false,"size":18743455816,"state":"stalledUP","super_seeding":false,"tags":"","time_active":13660,"total_size":18743455816,"tracker":"https://tracker.cinefiles.info/announce.php?passkey=(removed)","trackers_count":2,"up_limit":0,"uploaded":0,"uploaded_session":0,"upspeed":0}]
+2023-09-01 12:05:15.8|Trace|RemotePathMappingService|Evaluating remote path remote mappings for match to host [10.10.10.7] and remote path [/downloads/Wrong Carriage Right Groom S1E9 [Chinese][2160P][WEBDL][-ADWeb]/S1E9.mp4]
+2023-09-01 12:05:16.2|Trace|RemotePathMappingService|Checking configured remote path mapping: 10.10.10.7 - /downloads/
+2023-09-01 12:05:16.2|Debug|RemotePathMappingService|Remapped remote path [/downloads/Wrong Carriage Right Groom S1E9 [Chinese][2160P][WEBDL][-ADWeb]/S1E9.mp4] to local path [/volume2/PT/qbittorrent/Wrong Carriage Right Groom S1E9 [Chinese][2160P][WEBDL][-ADWeb]/S1E9.mp4] for host [10.10.10.7]
+2023-09-01 12:05:16.2|Trace|RemotePathMappingService|Evaluating remote path remote mappings for match to host [10.10.10.7] and remote path [/downloads/Wrong Carriage Right Groom S1E1-E4 [Chinese][2160P][WEBDL][-ADWeb]]
+2023-09-01 12:05:16.2|Trace|RemotePathMappingService|Checking configured remote path mapping: 10.10.10.7 - /downloads/
+2023-09-01 12:05:16.2|Debug|RemotePathMappingService|Remapped remote path [/downloads/Wrong Carriage Right Groom S1E1-E4 [Chinese][2160P][WEBDL][-ADWeb]] to local path [/volume2/PT/qbittorrent/Wrong Carriage Right Groom S1E1-E4 [Chinese][2160P][WEBDL][-ADWeb]] for host [10.10.10.7]
+2023-09-01 12:05:16.2|Trace|RemotePathMappingService|Evaluating remote path remote mappings for match to host [10.10.10.7] and remote path [/downloads/Wrong Carriage Right Groom S1E5-E6 [2160P][WEBDL][-HDSWEB]]
+2023-09-01 12:05:16.2|Trace|RemotePathMappingService|Checking configured remote path mapping: 10.10.10.7 - /downloads/
+2023-09-01 12:05:16.2|Debug|RemotePathMappingService|Remapped remote path [/downloads/Wrong Carriage Right Groom S1E5-E6 [2160P][WEBDL][-HDSWEB]] to local path [/volume2/PT/qbittorrent/Wrong Carriage Right Groom S1E5-E6 [2160P][WEBDL][-HDSWEB]] for host [10.10.10.7]
+2023-09-01 12:05:16.2|Trace|RemotePathMappingService|Evaluating remote path remote mappings for match to host [10.10.10.7] and remote path [/downloads/Wrong Carriage Right Groom S1E7-E8 [2160P][WEBDL][-HDSWEB]]
+2023-09-01 12:05:16.2|Trace|RemotePathMappingService|Checking configured remote path mapping: 10.10.10.7 - /downloads/
+2023-09-01 12:05:16.2|Debug|RemotePathMappingService|Remapped remote path [/downloads/Wrong Carriage Right Groom S1E7-E8 [2160P][WEBDL][-HDSWEB]] to local path [/volume2/PT/qbittorrent/Wrong Carriage Right Groom S1E7-E8 [2160P][WEBDL][-HDSWEB]] for host [10.10.10.7]
+2023-09-01 12:05:16.2|Trace|RemotePathMappingService|Evaluating remote path remote mappings for match to host [10.10.10.7] and remote path [/downloads/ONE PIECE (2023) S1 [Chinese][1080P][WEBDL][-CMRG]]
+2023-09-01 12:05:16.2|Trace|RemotePathMappingService|Checking configured remote path mapping: 10.10.10.7 - /downloads/
+2023-09-01 12:05:16.2|Debug|RemotePathMappingService|Remapped remote path [/downloads/ONE PIECE (2023) S1 [Chinese][1080P][WEBDL][-CMRG]] to local path [/volume2/PT/qbittorrent/ONE PIECE (2023) S1 [Chinese][1080P][WEBDL][-CMRG]] for host [10.10.10.7]
+2023-09-01 12:05:16.3|Trace|EventAggregator|Publishing TrackedDownloadRefreshedEvent
+2023-09-01 12:05:16.3|Trace|EventAggregator|TrackedDownloadRefreshedEvent -> QueueService
+2023-09-01 12:05:16.3|Trace|EventAggregator|Publishing QueueUpdatedEvent
+2023-09-01 12:05:16.3|Trace|EventAggregator|QueueUpdatedEvent -> QueueController
+2023-09-01 12:05:16.3|Trace|EventAggregator|QueueUpdatedEvent <- QueueController
+2023-09-01 12:05:16.3|Trace|EventAggregator|QueueUpdatedEvent -> QueueDetailsController
+2023-09-01 12:05:16.3|Trace|EventAggregator|QueueUpdatedEvent <- QueueDetailsController
+2023-09-01 12:05:16.3|Trace|EventAggregator|QueueUpdatedEvent -> QueueStatusController
+2023-09-01 12:05:16.3|Trace|EventAggregator|QueueUpdatedEvent <- QueueStatusController
+2023-09-01 12:05:16.3|Trace|EventAggregator|TrackedDownloadRefreshedEvent <- QueueService
+2023-09-01 12:05:16.3|Trace|CommandQueueManager|Publishing ProcessMonitoredDownloads
+2023-09-01 12:05:16.3|Trace|CommandQueueManager|Checking if command is queued or started: ProcessMonitoredDownloads
+2023-09-01 12:05:16.3|Trace|CommandQueueManager|Inserting new command: ProcessMonitoredDownloads
+2023-09-01 12:05:17.0|Trace|CommandQueueManager|Updating command status
+2023-09-01 12:05:17.0|Trace|CommandExecutor|ProcessMonitoredDownloadsCommand -> DownloadProcessingService
+2023-09-01 12:05:17.0|Trace|CommandQueueManager|Marking command as started: ProcessMonitoredDownloads
+2023-09-01 12:05:17.3|Trace|EventAggregator|Publishing CommandExecutedEvent
+2023-09-01 12:05:17.3|Trace|EventAggregator|CommandExecutedEvent -> TaskManager
+2023-09-01 12:05:17.3|Trace|TaskManager|Updating last run time for: NzbDrone.Core.Download.RefreshMonitoredDownloadsCommand
+2023-09-01 12:05:17.5|Trace|EventAggregator|CommandExecutedEvent <- TaskManager
+2023-09-01 12:05:17.5|Trace|EventAggregator|CommandExecutedEvent -> TaskController
+2023-09-01 12:05:17.5|Trace|EventAggregator|CommandExecutedEvent <- TaskController
+2023-09-01 12:05:17.5|Trace|EventAggregator|CommandExecutedEvent -> QualityDefinitionController
+2023-09-01 12:05:17.5|Trace|EventAggregator|CommandExecutedEvent <- QualityDefinitionController
+2023-09-01 12:05:17.5|Trace|CommandExecutor|RefreshMonitoredDownloadsCommand <- DownloadMonitoringService [00:00:04.9425295]
+2023-09-01 12:05:17.5|Trace|Http|Req: 2790 [GET] /api/v3/command (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
+2023-09-01 12:05:18.0|Trace|EventAggregator|Publishing DownloadsProcessedEvent
+2023-09-01 12:05:18.0|Trace|EventAggregator|DownloadsProcessedEvent -> DownloadMonitoringService
+2023-09-01 12:05:18.0|Trace|EventAggregator|Publishing TrackedDownloadRefreshedEvent
+2023-09-01 12:05:18.0|Trace|EventAggregator|TrackedDownloadRefreshedEvent -> QueueService
+2023-09-01 12:05:18.0|Trace|EventAggregator|Publishing QueueUpdatedEvent
+2023-09-01 12:05:18.0|Trace|EventAggregator|QueueUpdatedEvent -> QueueController
+2023-09-01 12:05:18.0|Trace|EventAggregator|QueueUpdatedEvent <- QueueController
+2023-09-01 12:05:18.0|Trace|EventAggregator|QueueUpdatedEvent -> QueueDetailsController
+2023-09-01 12:05:18.0|Trace|EventAggregator|QueueUpdatedEvent <- QueueDetailsController
+2023-09-01 12:05:18.0|Trace|EventAggregator|QueueUpdatedEvent -> QueueStatusController
+2023-09-01 12:05:18.0|Trace|EventAggregator|QueueUpdatedEvent <- QueueStatusController
+2023-09-01 12:05:18.0|Trace|EventAggregator|TrackedDownloadRefreshedEvent <- QueueService
+2023-09-01 12:05:18.0|Trace|EventAggregator|DownloadsProcessedEvent <- DownloadMonitoringService
+2023-09-01 12:05:18.0|Trace|CommandQueueManager|Updating command status
+2023-09-01 12:05:18.0|Trace|EventAggregator|DownloadsProcessedEvent ~> NotificationService
+2023-09-01 12:05:18.1|Trace|EventAggregator|DownloadsProcessedEvent <~ NotificationService
+2023-09-01 12:05:18.3|Trace|CommandQueueManager|Getting all commands
+2023-09-01 12:05:18.3|Trace|Http|Res: 2790 [GET] /api/v3/command: 200.OK (755 ms)
+2023-09-01 12:05:18.3|Debug|Api|[GET] /api/v3/command: 200.OK (755 ms)
+2023-09-01 12:05:18.4|Trace|EventAggregator|Publishing CommandExecutedEvent
+2023-09-01 12:05:18.4|Trace|EventAggregator|CommandExecutedEvent -> TaskManager
+2023-09-01 12:05:18.4|Trace|EventAggregator|CommandExecutedEvent <- TaskManager
+2023-09-01 12:05:18.4|Trace|EventAggregator|CommandExecutedEvent -> TaskController
+2023-09-01 12:05:18.4|Trace|EventAggregator|CommandExecutedEvent <- TaskController
+2023-09-01 12:05:18.4|Trace|EventAggregator|CommandExecutedEvent -> QualityDefinitionController
+2023-09-01 12:05:18.4|Trace|EventAggregator|CommandExecutedEvent <- QualityDefinitionController
+2023-09-01 12:05:18.4|Trace|CommandExecutor|ProcessMonitoredDownloadsCommand <- DownloadProcessingService [00:00:01.0953974]
+2023-09-01 12:05:18.4|Trace|Http|Req: 2791 [GET] /api/v3/command (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
+2023-09-01 12:05:18.4|Trace|CommandQueueManager|Getting all commands
+2023-09-01 12:05:18.4|Trace|Http|Res: 2791 [GET] /api/v3/command: 200.OK (4 ms)
+2023-09-01 12:05:18.4|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2023-09-01 12:05:30.0|Trace|Http|Req: 2792 [GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:35:29.999Z&apikey=(removed) (from 10.10.10.2 Java/17.0.8)
+2023-09-01 12:05:30.9|Trace|Http|Res: 2792 [GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:35:29.999Z&apikey=(removed) 200.OK (952 ms)
+2023-09-01 12:05:30.9|Debug|Api|[GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:35:29.999Z&apikey=(removed) 200.OK (952 ms)
+2023-09-01 12:05:42.0|Trace|Scheduler|Pending Tasks: 0
+2023-09-01 12:05:55.9|Trace|Http|Req: 2793 [GET] /api/v3/health (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
+2023-09-01 12:05:55.9|Trace|Http|Req: 2794 [GET] /api/v3/diskspace (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
+2023-09-01 12:05:55.9|Trace|Http|Req: 2795 [GET] /api/v3/system/status (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
+2023-09-01 12:05:56.3|Trace|Http|Res: 2793 [GET] /api/v3/health: 200.OK (404 ms)
+2023-09-01 12:05:56.3|Debug|Api|[GET] /api/v3/health: 200.OK (404 ms)
+2023-09-01 12:05:56.3|Trace|Http|Res: 2795 [GET] /api/v3/system/status: 200.OK (478 ms)
+2023-09-01 12:05:56.3|Debug|Api|[GET] /api/v3/system/status: 200.OK (478 ms)
+2023-09-01 12:05:57.9|Trace|Http|Req: 2796 [GET] /api/v3/update (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
+2023-09-01 12:05:57.9|Trace|Http|Req: 2797 [GET] /api/v3/config/host (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
+2023-09-01 12:05:58.8|Trace|Http|Req: 2798 [GET] /api/v3/log?page=1&pageSize=50&sortDirection=descending&sortKey=time (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
+2023-09-01 12:05:58.8|Trace|Http|Res: 2794 [GET] /api/v3/diskspace: 200.OK (2900 ms)
+2023-09-01 12:05:58.8|Debug|Api|[GET] /api/v3/diskspace: 200.OK (2900 ms)
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'proxyenabled' defaultValue:'False'
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'proxytype' defaultValue:'Http'
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'proxyhostname' defaultValue:''
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'proxyport' defaultValue:'8080'
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'proxyusername' defaultValue:''
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'proxypassword' defaultValue:''
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'proxybypassfilter' defaultValue:''
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'proxybypasslocaladdresses' defaultValue:'True'
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'certificatevalidation' defaultValue:'Enabled'
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'backupfolder' defaultValue:'Backups'
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'backupinterval' defaultValue:'7'
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'backupretention' defaultValue:'28'
+2023-09-01 12:05:59.4|Trace|ConfigService|Using default config value for 'applicationurl' defaultValue:''
+2023-09-01 12:06:00.0|Trace|Http|Req: 2799 [GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:35:59.999Z&apikey=(removed) (from 10.10.10.2 Java/17.0.8)
+2023-09-01 12:06:00.4|Trace|Http|Req: 2800 [GET] /api/v3/log/file (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
+2023-09-01 12:06:00.5|Trace|Http|Res: 2797 [GET] /api/v3/config/host: 200.OK (2539 ms)
+2023-09-01 12:06:00.5|Debug|Api|[GET] /api/v3/config/host: 200.OK (2539 ms)
+2023-09-01 12:06:00.6|Trace|Http|Res: 2798 [GET] /api/v3/log?page=1&pageSize=50&sortDirection=descending&sortKey=time: 200.OK (1811 ms)
+2023-09-01 12:06:00.8|Debug|Api|[GET] /api/v3/log?page=1&pageSize=50&sortDirection=descending&sortKey=time: 200.OK (1811 ms)
+2023-09-01 12:06:00.7|Trace|HttpClient|Req: [GET] https://services.sonarr.tv/v1/update/develop/changes?version=4.0.0.651&os=linux&arch=X64&runtime=netcore&runtimeVer=6.0.13&prevVersion=4.0.0.565&active=true
+2023-09-01 12:06:00.8|Trace|ConfigService|Using default config value for 'proxyenabled' defaultValue:'False'
+2023-09-01 12:06:00.7|Trace|Http|Res: 2799 [GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:35:59.999Z&apikey=(removed) 200.OK (748 ms)
+2023-09-01 12:06:00.8|Debug|Api|[GET] /api/v3/history/since?eventType=1&date=2023-09-01T03:35:59.999Z&apikey=(removed) 200.OK (748 ms)
+2023-09-01 12:06:01.9|Trace|Http|Res: 2800 [GET] /api/v3/log/file: 200.OK (1446 ms)
+2023-09-01 12:06:01.9|Debug|Api|[GET] /api/v3/log/file: 200.OK (1446 ms)
+2023-09-01 12:06:02.5|Trace|HttpClient|Res: HTTP/2.0 [GET] https://services.sonarr.tv/v1/update/develop/changes?version=4.0.0.651&os=linux&arch=X64&runtime=netcore&runtimeVer=6.0.13&prevVersion=4.0.0.565&active=true: 200.OK (8507 bytes) (1646 ms)
+2023-09-01 12:06:02.8|Trace|Http|Res: 2796 [GET] /api/v3/update: 200.OK (4886 ms)
+2023-09-01 12:06:02.8|Debug|Api|[GET] /api/v3/update: 200.OK (4886 ms)
+2023-09-01 12:06:05.8|Trace|Http|Req: 2801 [GET] /logfile/sonarr.trace.txt (from 10.10.10.48 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36)
